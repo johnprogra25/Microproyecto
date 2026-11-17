@@ -1,0 +1,1366 @@
+id_viaje;fecha;zona_origen;zona_destino;medio_transporte;hora_salida;tiempo_viaje;evaluo;calificacion
+VIA-00001;27/07/2026;VALLE;CENTRO;automovil;17:10;33,0;no;NA
+VIA-00002;25/04/2025; norte ;Sur;Automóvil;8:00 PM;pendiente; NO ;NA
+VIA-00003;2025-10-28; centro ;NORTE; bus ;10:55;49,1 min; NO ;
+VIA-00004;2026-06-16;Norte; sur ; AUTOMOVIL ;20h55;13,0 min;no;-
+VIA-00005;2026-06-22;SUR; sur ;Bicicleta;22:35;24,1;no;
+VIA-00006;10/05/2025;NORTE;Norte; AUTOMOVIL ;17:45;27,6 min; s ;4
+VIA-00007;2026-03-23;Centro;SUR;automovil;21h10;63,0 minutos;si;3
+VIA-00008;03/06/2025;CENTRO;Norte; bicicleta ;11:35;33,1 minutos;Sí;4
+VIA-00009;04/05/2025; sur ; valle ; bus ;12:15 PM;20,1 minutos; NO ;
+VIA-00010;2025-02-09;SUR; sur ;Bus;20:20;102,0;yes; 3 
+VIA-00011;2026-03-31;Norte;Centro;Automóvil;15h05;54,0;No;NA
+VIA-00012;01/06/2026;Centro; norte ;Bus;16:05;29,2 min;no;
+VIA-00013;05/09/2026;Sur;CENTRO;Bus;08:30;61,6;no;
+VIA-00014;2025-09-22;VALLE; centro ;BUS;07h55;0,69;Sí;3
+VIA-00015;2026-06-02; valle ; centro ;automovil;19:15;32,8 minutos; s ; 5 
+VIA-00016;2026-01-19;NORTE;VALLE; AUTOMOVIL ;08h00;0,77;si;4
+VIA-00017;09/10/2025; sur ;Sur;Bicicleta;16:05;20,7 minutos;yes;5
+VIA-00018;21/08/2026;NORTE; norte ;Motocicleta;10h00;32,8 min;n;
+VIA-00019;15/09/2025;Centro;SUR; MOTOCICLETA ;15:50;23,2;No;NA
+VIA-00020;2025-03-21;Valle;NORTE;Bus;21:35;31,5 minutos; s ;3
+VIA-00021;2025-09-07; valle ;Centro; bus ;10:15;75,1 minutos;Sí;4
+VIA-00022;24/04/2026;Centro;SUR;BUS;08:30;1,26 horas;n;-
+VIA-00023;17/01/2026; centro ;VALLE;automovil;4:15 PM;15,1 minutos;no;-
+VIA-00024;17/10/2025;NORTE; norte ;automovil;18:00;17,6 minutos;No;
+VIA-00025;2025-10-28;CENTRO; centro ;automovil;17:30;21,7 min; NO ;NA
+VIA-00026;2026-07-15;NORTE; centro ; AUTOMOVIL ;09:20;0,27 h; NO ;-
+VIA-00027;12/05/2025;SUR; sur ; bus ;13:10;131,2 minutos; s ;2
+VIA-00028;31/02/2026;CENTRO; norte ; bus ;11:50;42,0 min;no;NA
+VIA-00029;02/02/2025;SUR;Norte;automovil;18:40;0,74 h; s ;4
+VIA-00030;2026-01-23;CENTRO; sur ;Bus;09:30;0,48;SI;5
+VIA-00031;18/07/2026; norte ;NORTE; bicicleta ;11:05;31,1 minutos;No;NA
+VIA-00032;06/11/2025;Sur;SUR;Bus;07:55;74,9 min; s ;2
+VIA-00033;10/07/2025;VALLE;SUR; MOTOCICLETA ;16h10;2,40 h;si;2
+VIA-00034;11/08/2025;Sur; valle ; MOTOCICLETA ;18:35;55,5 minutos;si;5
+VIA-00035;2026-03-22; valle ;CENTRO;automovil;6:35 PM;17,7 min;Sí;5
+VIA-00036;2025-06-23; norte ;SUR;BUS;16:45;32,0 min; NO ;
+VIA-00037;2025-05-30; norte ;CENTRO; bus ;18:55;51,1 minutos; s ; 5 
+VIA-00038;2026-07-01; norte ; centro ;BUS;18:50;34,4 minutos;yes;5
+VIA-00039;26/09/2026;SUR;CENTRO;motocicleta;10:35;34,9;yes; 4 
+VIA-00040;15/11/2025;CENTRO; norte ; bus ;23:10;59,7 min; s ; 3 
+VIA-00041;27/05/2026;Valle;Valle;Automóvil;09h05;35,0;SI;4
+VIA-00042;18/08/2026; norte ;Sur;Automóvil;16h15;15,3; NO ;-
+VIA-00043;04/01/2026;Valle;Sur;BUS;07:05;89,4 min;SI; 3 
+VIA-00044;02/06/2026;CENTRO;Valle;Bicicleta;06:05;9,85;n;
+VIA-00045;22/01/2025; sur ;Norte;Bicicleta;10:45;28,7 minutos; NO ;-
+VIA-00046;2026-04-18;Sur; valle ;Motocicleta;17:05;24,9;no;NA
+VIA-00047;2026-05-17;VALLE;Sur; bicicleta ;14:40;24,6 minutos;No;
+VIA-00048;19/10/2025;CENTRO;Sur;Bicicleta;22h05;27,0;no;NA
+VIA-00049;01/09/2025; centro ; centro ;automovil;15h25;36,9 min;si;5
+VIA-00050;04/03/2026; valle ; sur ; MOTOCICLETA ;10:40 PM;0,75;No;NA
+VIA-00051;18/09/2026; norte ;CENTRO; bus ;9:05 PM;0,49 h;No;NA
+VIA-00052;2025-04-27; sur ;Sur;BUS;16:15;56,0 min;n;
+VIA-00053;2025-02-28;VALLE;NORTE;BUS;7:45 PM;66,6; NO ;NA
+VIA-00054;02/08/2026;VALLE;Valle;Automóvil;16:45;38,9 minutos;si;5
+VIA-00055;2025-10-04; valle ; sur ; AUTOMOVIL ;8:05 PM;26,2; NO ;NA
+VIA-00056;2026-13-04;Valle;SUR;motocicleta;5:55 PM;35,5 min; s ;5
+VIA-00057;16/08/2026;Sur; centro ;automovil;2:30 PM;0,52 h;si;5
+VIA-00058;2025-09-14;Norte;NORTE; AUTOMOVIL ;09h20;27,0 min;n;-
+VIA-00059;16/07/2026; sur ;Norte;BUS;09:25;44,1 minutos;yes;4
+VIA-00060;2025-10-02; norte ; sur ; AUTOMOVIL ;23:15;0,58;SI; 5 
+VIA-00061;01/03/2025; centro ;Norte;automovil;08:20;43,6 minutos;No;NA
+VIA-00062;2026-09-12;Centro;CENTRO;Motocicleta;1:15 PM;27,5 minutos;no;NA
+VIA-00063;08/07/2026; valle ; sur ;automovil;10:00;51,1; NO ;-
+VIA-00064;07/09/2025;Centro; sur ;Bus;18:00;60,7; s ;4
+VIA-00065;27/04/2025;NORTE; norte ;automovil;08h55;15,8 minutos;SI;5
+VIA-00066;01/02/2026; centro ;VALLE; bus ;20:50;65,5 min; s ;3
+VIA-00067;2025-05-13; valle ;Centro;Automóvil;16:15;21,9;SI;4
+VIA-00068;28/04/2025;SUR; centro ;Automóvil;07:00;40,0 minutos; NO ;
+VIA-00069;2025-03-14;Sur;Sur;BUS;19:55;33,9 min;si;4
+VIA-00070;2025-09-05; sur ;Valle; AUTOMOVIL ;18:45;32,3 min;si;3
+VIA-00071;2026-02-19; centro ;Centro;BUS;18:40;34,6 min;no;NA
+VIA-00072;2026-04-08;Centro;Centro;automovil;23:15;14,8 minutos; NO ;
+VIA-00073;2025-04-30;Sur;CENTRO;Automóvil;19:35;29,4 min;no;-
+VIA-00074;2025-07-25; norte ;SUR;Automóvil;08:20;30,4 minutos;Sí;5
+VIA-00075;2026-09-01;CENTRO;CENTRO;Bus;08:50;117,7 min;Sí; 4 
+VIA-00076;2026-06-13;Norte; norte ;BUS;14:15;22,8;No;-
+VIA-00077;2025-09-21;Centro;CENTRO;Automóvil;17:50;37,4 min;si; 5 
+VIA-00078;06/07/2025;Centro;Centro;Motocicleta;09h30;13,6 min; NO ;NA
+VIA-00079;2026-04-11;Norte;SUR;automovil;10:45 PM;40,5;SI; 5 
+VIA-00080;2026-09-13;Norte; norte ; AUTOMOVIL ;19h40;-19,0 min;no;
+VIA-00081;19/09/2025;Norte;NORTE;Automóvil;10:15;51,2 min;no;NA
+VIA-00082;2025-07-12;Centro;NORTE;Bus;20:10;14,7 min;n;-
+VIA-00083;2025-10-21;SUR; centro ; MOTOCICLETA ;09:25;19,1 min;Sí;4
+VIA-00084;2026-07-22;Norte;Valle;Bus;09:20;35,8; NO ;-
+VIA-00085;2026-04-28; sur ;NORTE; AUTOMOVIL ;07h05;54,1;SI;3
+VIA-00086;25/05/2026;VALLE;Valle; bus ;11:55;38,1;no;
+VIA-00087;2026-05-19; centro ;CENTRO; AUTOMOVIL ;12:00;60,3; NO ;-
+VIA-00088;2025-12-27; centro ;CENTRO;motocicleta;16:25;36,9 minutos;no;NA
+VIA-00089;16/04/2025;SUR; centro ; bus ;15:25;43,9 minutos;Sí; 4 
+VIA-00090;11/02/2026;SUR;Sur; MOTOCICLETA ;16h35;11,9;No;-
+VIA-00091;2026-09-06; sur ;Valle; bus ;10:20;70,2 min;SI;2
+VIA-00092;2026-04-13;NORTE; valle ;Automóvil;23:50;42,9 minutos; NO ;NA
+VIA-00093;2025-11-20;Centro;VALLE;automovil;9:55 PM;20,3 min;No;
+VIA-00094;28/09/2025; norte ;SUR;BUS;19:45;67,7 min; s ;4
+VIA-00095;20/07/2026;Sur;Norte;Bus;20:55;38,0 min;SI; 2 
+VIA-00096;2026-06-30;NORTE;SUR;Bicicleta;14h35;25,1; NO ;NA
+VIA-00097;2025-10-28;Valle;Norte;Automóvil;17:30;26,6 min; NO ;-
+VIA-00098;10/04/2026; sur ; norte ;Bus;11:20;85,7;yes;4
+VIA-00099;2025-06-26;VALLE; sur ; bus ;13:05;34,0 min;si;4
+VIA-00100;19/06/2025;NORTE;NORTE;automovil;18:15;107,2 min;yes;3
+VIA-00101;25/01/2025;Sur;VALLE;automovil;14:35;30,3 minutos;yes;3
+VIA-00102;13/07/2025;Norte;Valle;automovil;10:15;20,1; NO ;NA
+VIA-00103;17/05/2026; centro ;VALLE;automovil;15:30;28,5 minutos;No;
+VIA-00104;26/06/2025; valle ; norte ;Automóvil;18:30;14,2 min;No;NA
+VIA-00105;2026-06-20;SUR; centro ;Motocicleta;15h55;18,7;no;-
+VIA-00106;2025-06-20;Sur;VALLE;Bus;13:10;$52,6 min;Sí;3
+VIA-00107;15/04/2025;CENTRO; sur ;BUS;21:10;1,21;yes; 4 
+VIA-00108;23/09/2025;CENTRO;Centro;motocicleta;3:15 PM;13,3 min;no;-
+VIA-00109;2025-04-29;CENTRO;SUR; AUTOMOVIL ;17h30;41,4;n;NA
+VIA-00099;17/09/2025;NORTE; norte ;BUS;17:25;35,1 min;yes; 5 
+VIA-00111;2026-04-15; centro ;SUR;BUS;19:20;NA;SI;5
+VIA-00112;03/08/2025; sur ;Norte;Automóvil;13h50;18,8;n;-
+VIA-00113;07/10/2025; norte ; sur ;BUS;16:45;24,8; NO ;
+VIA-00114;2025-03-07;Centro;Valle; bus ;09:05;1,01 h;no;
+VIA-00115;2026-01-18;VALLE;CENTRO;Bus;17:40;66,8;Sí;4
+VIA-00116;13/10/2025;CENTRO;NORTE;automovil;16:55;31,8 min;yes; 4 
+VIA-00117;07/07/2025;NORTE;VALLE; AUTOMOVIL ;20:40;40,9; s ;4
+VIA-00118;2026-02-17; sur ;Norte;BICICLETA;19:10;53,7;yes; 3 
+VIA-00119;2025-09-12; valle ; norte ;Automóvil;23:25;33,2 min; s ;3
+VIA-00120;19/04/2025; centro ;Centro;Bicicleta;21:05;31,3 min;no;NA
+VIA-00121;2025-10-17; sur ; centro ;Bus;18:35;62,7 minutos;yes; 5 
+VIA-00122;11/07/2025;NORTE;Valle;BUS;23:40;67,6 minutos;no;-
+VIA-00123;2025-11-02; centro ; centro ;BUS;21:40;47,0 minutos;si;5
+VIA-00124;2025-12-29;Centro;SUR;BUS;7:55 PM;73,7 min; NO ;NA
+VIA-00125;2025-01-22;SUR; norte ;Automóvil;09:20;18,5 min;n;
+VIA-00126;09/08/2026; norte ;Valle;BICICLETA;09:55;19,9; NO ;
+VIA-00127;2025-05-13; sur ;Norte;Bicicleta;05:55;-10,0 min;no;
+VIA-00128;2025-07-25;VALLE; norte ;Bicicleta;8:45 PM;38,2 min;no;NA
+VIA-00129;2025-03-13; norte ;Norte;automovil;10:45;27,5 minutos; NO ;-
+VIA-00130;2025-06-02; norte ;Centro;Bus;8:00 PM;29,7; NO ;NA
+VIA-00131;2025-03-21; norte ;VALLE; AUTOMOVIL ;10:10;19,8 min;SI; 5 
+VIA-00132;26/08/2025;Valle;Valle; bus ;12:55;32,8 min;yes;4
+VIA-00133;2026-03-05;NORTE; centro ;motocicleta;19:35;90,5 minutos;yes;0
+VIA-00134;2025-11-25;CENTRO; norte ; bicicleta ;19:30;24,0 min;no;
+VIA-00135;2025-03-01;NORTE;VALLE; AUTOMOVIL ;18h10;0,20;n;-
+VIA-00136;17/10/2025;Norte;CENTRO;Bus;9:35 PM;36,8 minutos; s ;4
+VIA-00137;2025-11-28;Sur;Valle;Automóvil;19:10;35,3;yes; 5 
+VIA-00138;2026-02-10;Sur;NORTE;Automóvil;18:35;25,0 min;No;-
+VIA-00139;2025-09-09;Norte; valle ; bus ;18h10;18,5 min;no;-
+VIA-00140;10/05/2026; centro ;CENTRO; bus ;12:50;-10,4 min;No;
+VIA-00141;15/08/2025; sur ;Valle;Automóvil;17:25;27,8 min;n;-
+VIA-00142;2025-02-02;Norte;CENTRO; bus ;22:15;44,0 minutos;si; 5 
+VIA-00143;2025-02-02;Centro; norte ;BUS;10:15;21,4 min;no;-
+VIA-00144;2025-05-24; sur ;Centro;Automóvil;16:20;0,35;yes; 5 
+VIA-00145;2025-02-21;SUR;SUR; bus ;05:20;69,2 minutos;n;
+VIA-00146;05/02/2025;VALLE; valle ; bus ;10:50 PM;30,6 minutos;si; 5 
+VIA-00147;2026-06-18;Norte;CENTRO; bus ;13:55;39,9; s ;5
+VIA-00148;26/06/2025; norte ;CENTRO;BICICLETA;15:35;96,7; s ;2
+VIA-00149;28/01/2025;Sur;CENTRO; MOTOCICLETA ;12:05;18,8 min;n;
+VIA-00150;2026-07-23; centro ;Norte;Bus;18:15;0,64 horas;Sí; 4 
+VIA-00151;2025-10-10;NORTE;NORTE; MOTOCICLETA ;10:45;226,6 minutos;Sí;2
+VIA-00152;2025-07-29;Sur; sur ; bus ;10h30;31,3 min;No;-
+VIA-00153;2026-06-10; centro ;CENTRO;BUS;1:00 PM;32,0 min;No;
+VIA-00154;2026-05-15;NORTE; sur ;Bicicleta;18:40;37,7 minutos; NO ;NA
+VIA-00155;2025-09-23;Norte; valle ; AUTOMOVIL ;08:25;28,8 min;n;
+VIA-00156;2025-07-06;NORTE; norte ;automovil;19:10;37,5;No;NA
+VIA-00157;2026-09-16; sur ;Centro;motocicleta;7:45 PM;16,7 minutos; NO ;-
+VIA-00158;2026-01-20;Sur; centro ; bus ;05:10;38,8 minutos;si;4
+VIA-00159;2026-07-19;Sur;NORTE; bus ;5:25 PM;87,7;no;
+VIA-00160;18/01/2025;CENTRO;NORTE;automovil;18:40;0,00 min;n;-
+VIA-00161;28/09/2025; centro ; centro ;automovil;15:15;24,1 min; s ; 5 
+VIA-00162;2025-08-30; norte ;SUR;automovil;17:00;0,62;Sí; 4 
+VIA-00163;2026-06-26; centro ; valle ; AUTOMOVIL ;15:55;24,0 minutos;n;
+VIA-00164;2025-12-04; sur ;Valle;BUS;14h55;52,2;SI;5
+VIA-00165;13/08/2026;SUR; norte ;BUS;16h50;104,3 minutos;si; 4 
+VIA-00166;15/04/2026;SUR;Norte;Automóvil;19:20;12,2;n;NA
+VIA-00167;02/08/2026; sur ;Centro;BUS;10:10 PM;61,9;No;-
+VIA-00168;27/10/2025; sur ;Centro;Motocicleta;12:15;42,3;No;NA
+VIA-00169;2025-06-26; valle ;Valle; AUTOMOVIL ;08:05;14,4;No;
+VIA-00170;2025-03-11;Valle;Norte;BUS;14:25;38,6;yes;4
+VIA-00171;2025-12-20;Centro; centro ; MOTOCICLETA ;17:15;0,33; NO ;-
+VIA-00172;05/03/2026;Centro; centro ;motocicleta;12:25;32,7 minutos; NO ;
+VIA-00173;17/09/2026; norte ;Norte;BUS;09:00;0,58;No;NA
+VIA-00174;2025-07-08; valle ;Valle; AUTOMOVIL ;10:00 PM;57,4;Sí;4
+VIA-00175;2025-02-17;SUR; valle ;BUS;12:10;35,3; s ;5
+VIA-00176;2025-02-12; sur ;CENTRO;Motocicleta;6:50 PM;40,4;SI;4
+VIA-00177;2026-06-09;SUR; valle ;Bicicleta;18h50;0,72 horas;Sí;4
+VIA-00178;29/12/2025;SUR; norte ;Automóvil;22:15;198,3 minutos;si;1
+VIA-00179;2025-06-06;Sur;Centro;Bicicleta;08:40;17,2 min; NO ;
+VIA-00180;12/05/2025; norte ; centro ;BUS;18h45;37,4 min;No;
+VIA-00181;2026-03-29;Norte; norte ; AUTOMOVIL ;19:40;64,8;no;NA
+VIA-00182;28/01/2026; centro ;SUR;automovil;19:30;16,4 minutos;no;NA
+VIA-00183;01/05/2025;SUR; norte ;automovil;11:05 PM;25,5 min;No;
+VIA-00184;17/07/2025;Norte;Sur;motocicleta;06:05;18,8 minutos;No;
+VIA-00185;2026-01-15;Centro;NORTE;Automóvil;18:50;31,4 min;no;
+VIA-00186;31/02/2026;SUR; sur ;Motocicleta;14:25;12,0 min;n;
+VIA-00187;07/05/2025;Sur; norte ; AUTOMOVIL ;15:35;0,39;n;
+VIA-00188;29/05/2026;Centro;Valle; bus ;23:40;27,8 min;SI;4
+VIA-00189;23/02/2025; norte ; centro ; MOTOCICLETA ;22:40;54,6 min; s ;4
+VIA-00190;2025-07-23;Norte;VALLE; bus ;15:50;23,3;No;
+VIA-00191;2025-03-29;Norte; sur ; MOTOCICLETA ;11:10;78,6 minutos;No;NA
+VIA-00192;2025-02-20; norte ;SUR;Automóvil;18:35;18,8; NO ;-
+VIA-00193;2026-07-18;CENTRO;Centro;BICICLETA;10:05 PM;31,0 minutos; s ;4
+VIA-00194;2026-08-24; norte ;NORTE;Automóvil;09:05;23,8 min; NO ;NA
+VIA-00195;29/08/2025;VALLE;VALLE;Bus;10:45 PM;95,9;yes;4
+VIA-00196;2026-06-12;Centro; centro ;automovil;10:45 PM;35,7 min; s ;4
+VIA-00197;25/06/2026; valle ; valle ; AUTOMOVIL ;18:50;27,2 min; s ;3
+VIA-00198;2025-12-24;Sur;SUR;Bicicleta;16h05;25,1 min;No;
+VIA-00199;16/07/2026;Sur; sur ; MOTOCICLETA ;06:10;s/d;yes; 5 
+VIA-00200;2026-03-10;Valle;Valle;Bus;06:05;40,2 min;yes; 3 
+VIA-00201;18/05/2026;Valle;SUR; bus ;11:20;0,82 h;Sí; 5 
+VIA-00202;2026-08-20;Norte;CENTRO;Bus;9:35 PM;97,3;yes;3
+VIA-00203;2026-06-28;Sur;Sur; AUTOMOVIL ;10:15;NA; NO ;
+VIA-00204;01/07/2025;NORTE; sur ; AUTOMOVIL ;07:50;20,3 minutos;no;
+VIA-00205;2025-03-05;NORTE;SUR;BUS;18:10;59,6 min;no;-
+VIA-00206;2026-06-07;SUR;VALLE; bus ;18h30;0,00 h;No;-
+VIA-00207;2025-01-24;CENTRO;Centro;Motocicleta;08:45;31,2 minutos;No;
+VIA-00208;2026-05-21; sur ; centro ; MOTOCICLETA ;19:30;32,8 min;si; 5 
+VIA-00209;15/05/2025; valle ;Centro;Automóvil;21h25;31,8 minutos;yes;4
+VIA-00210;fecha desconocida; valle ;VALLE; bicicleta ;19:00;21,7;SI;5
+VIA-00211;20/01/2025;Norte;Centro;Bicicleta;19:30;39,3;No;
+VIA-00212;2026-01-30; sur ;Norte; AUTOMOVIL ;12:55;52,0 minutos; s ;5
+VIA-00213;2026-04-03; sur ;CENTRO; AUTOMOVIL ;11:40 PM;29,8;n;
+VIA-00214;2025-02-21;Sur;VALLE;BUS;08:25;80,4 minutos;Sí; 2 
+VIA-00215;2025-01-22; sur ;Norte;Bus;10:40;40,5 minutos;SI; 3 
+VIA-00216;15/12/2025; sur ;CENTRO; AUTOMOVIL ;12:45;0,61 h;Sí;4
+VIA-00217;2025-10-30;Centro; centro ; bus ;20:25;109,8;yes;3
+VIA-00218;2025-02-02;SUR;NORTE;Bus;12:30 PM;21,8 min;no;
+VIA-00219;05/03/2025;SUR;NORTE;Bus;23:10;58,3;si; 4 
+VIA-00220;2025-02-21;Sur; valle ; AUTOMOVIL ;8:55 PM;71,9 minutos;SI;3
+VIA-00221;24/08/2025;CENTRO;SUR; bicicleta ;16:35;31,7; NO ;
+VIA-00222;18/04/2025;Valle;Centro; bus ;17:35;21,9; s ; 5 
+VIA-00043;2025-02-06;SUR;Centro; AUTOMOVIL ;3:00 PM;58,1 min;SI;5
+VIA-00224;01/10/2025;Centro;Centro;Automóvil;19:05;0,53 h;no;
+VIA-00225;2025-12-17;VALLE;SUR; bus ;6:20 PM;17,0;No;NA
+VIA-00226;09/12/2025;Valle;Norte;Automóvil;13:25;26,8 min;No;
+VIA-00227;2025-03-28;Norte; sur ;automovil;8:00 PM;37,9 min;Sí;4
+VIA-00228;2026-04-29;Valle;Valle;Bus;16:15;33,5;yes;4
+VIA-00229;30/01/2025;Valle;NORTE;Bus;15:20;48,3;SI;5
+VIA-00111;2025-10-03;Norte;CENTRO;Automóvil;22:15;31,6 minutos;yes; 3 
+VIA-00231;24/07/2026;Sur;VALLE;Automóvil;17h45;52,1 minutos;si;4
+VIA-00232;24/06/2026;NORTE;SUR;BICICLETA;19:00;25,7;n;
+VIA-00233;2026-09-25; norte ;Centro;Bus;09:55;153,7;Sí;3
+VIA-00234;04/01/2026; centro ; norte ; AUTOMOVIL ;9:40 PM;34,2; NO ;-
+VIA-00235;2025-08-16;Centro;Valle; MOTOCICLETA ;08h40;24,6;No;
+VIA-00236;2025-07-20; centro ;NORTE; MOTOCICLETA ;07:45;0,47 h;n;NA
+VIA-00237;18/04/2026;CENTRO;Norte;BUS;17h25;35,6 min;no;-
+VIA-00238;23/04/2025; norte ;Norte;BICICLETA;18h00;14,7 minutos;si;5
+VIA-00239;2026-04-24;Sur;SUR; bus ;11:25;52,5;no;
+VIA-00240;25/12/2025;NORTE;Sur; AUTOMOVIL ;09h00;23,7 minutos;no;
+VIA-00241;25/05/2025;Norte; centro ; bus ;8:25 PM;29,9 min;no;
+VIA-00242;06/08/2025; centro ;VALLE;Automóvil;18:30;20,0; NO ;NA
+VIA-00243;2026-03-31;Centro; centro ;BICICLETA;07:45;43,7 min;No;NA
+VIA-00244;17/05/2025;Valle;SUR; AUTOMOVIL ;09:30;26,1;n;NA
+VIA-00245;2025-09-26;NORTE; valle ; AUTOMOVIL ;18:45;33,5; NO ;
+VIA-00246;20/08/2026;Valle; valle ;Bus;12:25;40,0;Sí;4
+VIA-00247;12/11/2025;Sur; norte ;automovil;06:25;0,41 h; NO ;
+VIA-00248;14/02/2025;Norte;SUR;Automóvil;10:05;13,5 min;no;NA
+VIA-00249;01/08/2025; norte ;VALLE; AUTOMOVIL ;5:30 PM;32,1;yes;5
+VIA-00250;22/06/2025; norte ;Sur; bus ;12:30;29,9 min;No;-
+VIA-00251;2026-08-22;CENTRO;CENTRO;automovil;11:20;30,6; NO ;-
+VIA-00252;2025-11-18; sur ; sur ;automovil;1:40 PM;0,66 horas; NO ;NA
+VIA-00253;09/07/2026;SUR; valle ; bus ;09:10;43,7 min;n;NA
+VIA-00254;09/04/2026;CENTRO; sur ; AUTOMOVIL ;11:45;28,4;n;
+VIA-00255;19/02/2025; sur ; sur ; AUTOMOVIL ;17:10;21,2 min;n;-
+VIA-00256;2025-10-24;NORTE;CENTRO;Bus;08h20;26,6 minutos;n;NA
+VIA-00257;14/06/2025;Sur;NORTE;Automóvil;22:25;0,68 h;n;
+VIA-00258;10/01/2026; sur ;Valle; MOTOCICLETA ;23:20;39,3;yes;5
+VIA-00259;09/05/2026; norte ; valle ; AUTOMOVIL ;19:45;35,7 minutos;SI; 5 
+VIA-00260;2026-04-23; norte ;CENTRO; bus ;07h10;0,27 horas; s ;5
+VIA-00261;24/06/2025;Sur;CENTRO; bicicleta ;13:55;48,4 minutos;yes;4
+VIA-00262;2025-02-22;Norte;Sur; AUTOMOVIL ;14:40;18,4;no;
+VIA-00263;2026-05-21; centro ; valle ; bus ;17:05;19,4 min;SI; 5 
+VIA-00264;2026-01-29; norte ;Centro;Bus;09h55;60,0;No;
+VIA-00265;25/08/2026;SUR;Centro;BUS;18:30;18,0; NO ;-
+VIA-00266;2025-11-09; valle ; centro ;automovil;09:35;51,2 minutos;SI;6
+VIA-00267;03/04/2025; sur ;Norte; bus ;10:40;46,5 min; s ;4
+VIA-00268;01/06/2026;Norte;Norte;Automóvil;09:00;50,1;yes; 4 
+VIA-00269;2026-08-15;CENTRO;Norte;BICICLETA;13h35;18,6 min; NO ;
+VIA-00270;11/09/2026; norte ;Centro;Bicicleta;15:30;$37,9 min;n;-
+VIA-00271;16/04/2026; norte ;VALLE;BUS;08:45;1,09;no;
+VIA-00272;2025-10-18; centro ; sur ; bicicleta ;18:10;0,54 horas;No;NA
+VIA-00273;03/03/2026;Sur;Centro; bus ;20:55;60,1; s ;2
+VIA-00274;2026-07-04; centro ; centro ; AUTOMOVIL ;18:30;31,7 minutos; s ; 4 
+VIA-00275;2026-02-16;SUR; centro ;Automóvil;4:25 PM;sin dato; s ;1
+VIA-00276;2025-06-20;Norte; sur ;BUS;09:55;54,5 minutos;SI;5
+VIA-00277;24/06/2025;Norte; valle ;Bus;06:30;47,8;SI;4
+VIA-00278;2025-10-02; centro ; centro ; MOTOCICLETA ;20:30;45,9 min;SI; 4 
+VIA-00279;2025-10-01;Centro; centro ;automovil;14:40;36,9; NO ;
+VIA-00280;08/01/2026; centro ;NORTE;BUS;10:50;32,1;yes;4
+VIA-00281;31/07/2026;NORTE; valle ;BUS;14:50;37,9 minutos;No;NA
+VIA-00282;2026-02-17;Centro;CENTRO;automovil;19:05;30,4 minutos;no;
+VIA-00283;20/06/2026; sur ; sur ; AUTOMOVIL ;05:50;26,9;SI;4
+VIA-00284;23/09/2025;Valle; norte ; bus ;9:25 PM;27,9 minutos;no;NA
+VIA-00285;2025-04-13; sur ;NORTE;automovil;12h55;33,6 min; NO ;NA
+VIA-00286;20/07/2025;Valle;VALLE;Bus;13h00;32,9 min; s ; 5 
+VIA-00287;2026-06-29;SUR;SUR;Automóvil;6:05 PM;40,3;no;NA
+VIA-00288;30/03/2026;SUR;Centro;BUS;19h55;24,8 minutos;No;-
+VIA-00289;12/09/2026;SUR;CENTRO; bicicleta ;17:50;0,27 h;No;
+VIA-00290;08/08/2026;Centro;Valle; MOTOCICLETA ;09:30;45,5 min; NO ;
+VIA-00291;01/08/2025;NORTE;Norte;automovil;13h40;49,4 minutos;yes;5
+VIA-00292;19/08/2026;CENTRO; norte ; AUTOMOVIL ;13:10;38,1;yes; 4 
+VIA-00293;13/05/2025; centro ; norte ;Automóvil;4:50 PM;30,8 min;SI;5
+VIA-00294;25/06/2026;SUR;NORTE; AUTOMOVIL ;18:20;50,7 min;yes;3
+VIA-00295;2025-10-04;CENTRO; sur ;Bus;19:35;0,81 horas; s ; 4 
+VIA-00296;17/03/2026;Valle; centro ;Motocicleta;09:00;34,6 min;Sí;5
+VIA-00297;15/05/2026; centro ;Centro; bus ;10:05;1,09;n;NA
+VIA-00298;2025-08-22;Norte; centro ;Bus;4:50 PM;0,90 horas; s ; 4 
+VIA-00299;2025-12-20;CENTRO;Sur; bicicleta ;16h20;no registrado;no;NA
+VIA-00300;2025-10-19; sur ;NORTE; AUTOMOVIL ;16:35;;Sí;4
+VIA-00301;2026-04-15; centro ;SUR;automovil;09:40;49,1 min;SI; 4 
+VIA-00302;12/02/2026;NORTE;Centro; bus ;06h45;49,8 min;si; 4 
+VIA-00303;01/05/2025;SUR; centro ;automovil;13:10;32,5;yes;4
+VIA-00304;2025-11-27;SUR;CENTRO; bus ;14:10;175,0 min;si;2
+VIA-00305;02/02/2025;SUR; sur ;automovil;17h35;30,7; NO ;
+VIA-00306;2026-01-12; centro ; centro ;Automóvil;16:20;0,32;no;NA
+VIA-00307;2025-09-02;Norte; valle ; bus ;12h35;0,00 min;si; 5 
+VIA-00308;23/10/2025; norte ; centro ;Automóvil;23:40;27,2;no;NA
+VIA-00309;22/04/2026; sur ;NORTE;Bus;4:05 PM;$50,3 min;Sí;5
+VIA-00310;2026-07-12; centro ;Sur;motocicleta;10:00;44,1 min; s ; 5 
+VIA-00311;01/03/2025;SUR;SUR;BUS;22h45;47,6 min;SI;5
+VIA-00312;2025-02-20; centro ;CENTRO; bus ;16:55;20,9 minutos;no;-
+VIA-00313;2026-06-06; norte ; valle ;Bicicleta;6:40 PM;0,32;no;NA
+VIA-00314;22/01/2026;Centro;Norte;automovil;20:50;42,1 minutos;n;-
+VIA-00315;19/10/2025; norte ; valle ; AUTOMOVIL ;09:30;28,6; NO ;NA
+VIA-00316;2025-04-14;Centro; centro ;Bicicleta;17:55;55,2 min;si;4
+VIA-00317;2026-05-08; norte ;Centro; AUTOMOVIL ;23:30;57,3 min;SI; 3 
+VIA-00318;2026-04-07;NORTE;Centro;Automóvil;23h20;0,18;No;
+VIA-00319;2025-05-23; valle ; centro ;Bicicleta;09:40;10,7 min; NO ;-
+VIA-00320;2026-03-07; valle ;Valle;Automóvil;7:10 PM;0,38 h;SI;4
+VIA-00321;24/10/2025; centro ;Sur;Automóvil;18:45;32,8 minutos;No;
+VIA-00322;2025-08-03;Centro; valle ;Bus;09:35;72,8 min;si; 4 
+VIA-00323;2026-01-02;CENTRO; centro ;BUS;19h05;37,1 minutos;No;-
+VIA-00324;19/06/2026;NORTE;Valle; bus ;17h55;31,6 min; s ;5
+VIA-00325;10/01/2026;Sur; centro ;BICICLETA;06:00;0,21;no;
+VIA-00326;04/03/2026;Sur; valle ;automovil;07:10;35,1;no;
+VIA-00327;28/01/2026; norte ; sur ;Bicicleta;13:10;sin dato; s ;5
+VIA-00328;2026-03-29;Valle;CENTRO;Bus;14:55;pendiente;SI;4
+VIA-00329;2025-10-19; norte ;Valle;Bus;18:10;32,7 min;Sí;3
+VIA-00330;2025-12-31;Valle; centro ;automovil;17:15;27,6 minutos; NO ;NA
+VIA-00331;2026-09-02;Norte; sur ; MOTOCICLETA ;14:05;23,9 minutos;no;-
+VIA-00332;15/10/2025;Valle; valle ;Bicicleta;4:35 PM;37,5 minutos;no;NA
+VIA-00333;04/01/2026;Valle;VALLE;BUS;20h05;14,9 min; NO ;
+VIA-00334;29/03/2025; centro ;Valle;BICICLETA;20h05;92,1;Sí; 3 
+VIA-00335;2025-12-01;Valle;Norte;BUS;14:10;66,2;SI;4
+VIA-00336;02/05/2025;Centro; valle ;BUS;10:05 PM;36,5 min;yes;3
+VIA-00337;2026-02-12;Sur;SUR;automovil;12:55;44,7;yes;4
+VIA-00338;2026-01-08;Norte; sur ;automovil;10h15;34,1 minutos;yes;5
+VIA-00339;01/11/2025;SUR;CENTRO;automovil;08:40;25,5 minutos;no;
+VIA-00340;01/02/2025;Centro;SUR; MOTOCICLETA ;18:15;25,2;n;-
+VIA-00341;16/01/2026;Centro;Valle;Automóvil;08:55;41,9 min; NO ;NA
+VIA-00342;2026-04-04; valle ;CENTRO;Automóvil;09:00;22,6;Sí; 4 
+VIA-00343;17/12/2025;Centro;VALLE; bus ;13:30;30,1 minutos;No;-
+VIA-00344;11/11/2025;Sur;SUR; AUTOMOVIL ;08h40;0,36;n;-
+VIA-00345;2026-01-28;Norte;NORTE; bus ;09h50;68,7 minutos;si; 3 
+VIA-00346;2026-07-01;Sur;SUR;Bicicleta;22h35;0,37; NO ;
+VIA-00347;2026-01-21;Centro;CENTRO;automovil;11:30;21,1 min; NO ;
+VIA-00348;2026-01-11; valle ;VALLE;BUS;16h00;45,6 min;SI; 4 
+VIA-00349;2026-07-26; norte ; centro ;Bus;15:50;39,9 minutos;SI; 5 
+VIA-00350;23/05/2026; centro ;SUR;BICICLETA;19:15;19,6 minutos;no;-
+VIA-00351;11/12/2025;CENTRO;Centro; MOTOCICLETA ;17:45;31,0;no;-
+VIA-00352;23/02/2025;Centro; norte ; bus ;09:05;86,7 minutos;yes;2
+VIA-00353;2025-11-14;VALLE;Valle;BICICLETA;11:25;48,3 minutos;Sí;5
+VIA-00354;2025-09-14; valle ; sur ;BICICLETA;19:35;33,8 min; s ;5
+VIA-00355;2025-06-23;Centro; valle ; bus ;22:15;21,1;No;-
+VIA-00356;25/06/2026;Sur;Centro;Bus;4:10 PM;36,8;No;NA
+VIA-00357;19/05/2025;Norte;Valle;Bus;08:10;35,8 minutos;si; 4 
+VIA-00358;13/10/2025;Valle;Norte; bus ;16:30;64,9 minutos;SI;5
+VIA-00359;2025-03-13;Sur;Centro;BUS;21:15;61,1;Sí;4
+VIA-00360;02/07/2026;VALLE; centro ;Automóvil;10:25;28,5 min; NO ;
+VIA-00361;24/05/2025; centro ; valle ;Bicicleta;11h45;20,7 minutos; NO ;NA
+VIA-00362;25/05/2025;SUR; norte ;Motocicleta;20:00;27,9 minutos;no;
+VIA-00363;26/04/2026;Valle;VALLE;Bus;4:10 PM;37,4 minutos;SI;3
+VIA-00364;2025-01-25;Centro;NORTE;motocicleta;5:55 PM;36,0;yes;4
+VIA-00365;2025-07-12; norte ;VALLE; bus ;19:45;65,0 minutos;yes;4
+VIA-00366;15/02/2026;CENTRO;Norte; AUTOMOVIL ;2:40 PM;45,8 min;yes;4
+VIA-00367;28/09/2025;Centro;Norte; bus ;8:45 PM;27,9 minutos;No;NA
+VIA-00368;2025-05-20;NORTE;VALLE;Bus;7:55 PM;64,6 min;No;NA
+VIA-00369;13/01/2026;Norte;VALLE; bus ;18h20;54,0;n;
+VIA-00370;06/06/2026;NORTE; norte ; AUTOMOVIL ;08:55;34,3 minutos;yes;4
+VIA-00371;19/06/2025; sur ; norte ; bus ;16:00;57,8 minutos; s ;4
+VIA-00372;2025-07-28;Norte;CENTRO; AUTOMOVIL ;09:30;41,5 min;No;
+VIA-00373;09/06/2025;VALLE; valle ;automovil;08:15;27,8;no;
+VIA-00374;2026-03-31;Valle; norte ;Bus;13:15;0,62 horas;SI; 4 
+VIA-00375;23/06/2026; valle ; sur ;Automóvil;08h15;37,5 minutos;No;
+VIA-00376;2025-06-02;CENTRO;SUR;BUS;08:25;31,0 minutos;SI; 4 
+VIA-00377;17/05/2025;Sur;Centro;BUS;06:00;25,6 min;no;-
+VIA-00378;09/02/2025;Valle;VALLE;automovil;12:45 PM;50,1 minutos;si; 4 
+VIA-00379;NA;CENTRO; sur ;BUS;6:40 PM;91,1;si;4
+VIA-00380;2026-03-09;VALLE; norte ;BUS;05:25;80,7;No;
+VIA-00381;22/03/2025; norte ;Norte;motocicleta;07:55;0,68; s ;5
+VIA-00382;2025-06-21;NORTE;Norte; AUTOMOVIL ;06:45;49,0;Sí;5
+VIA-00383;2026-08-25; centro ; sur ; bus ;8:55 PM;92,1;SI;3
+VIA-00384;21/09/2026;Norte;Centro;Automóvil;05:15;38,5 minutos; s ;3
+VIA-00385;2025-05-07; centro ; valle ;BICICLETA;3:40 PM;85,7 minutos;yes; 3 
+VIA-00386;28/10/2025; valle ;CENTRO;motocicleta;12:50;41,5 min;SI; 3 
+VIA-00387;31/01/2026;Norte;Sur; bus ;10:25;36,8 minutos;no;NA
+VIA-00388;05/06/2026;SUR;VALLE;automovil;12:10 PM;13,2 min;No;-
+VIA-00389;06/06/2026;Valle;VALLE;BICICLETA;18:25;27,5 minutos; NO ;
+VIA-00390;2025-08-30;SUR;VALLE; MOTOCICLETA ;10h00;26,1 min;no;NA
+VIA-00391;23/03/2025;Centro;CENTRO; AUTOMOVIL ;10:15;14,6 min;No;
+VIA-00392;2025-02-02; centro ; sur ; AUTOMOVIL ;10:00 PM;29,7 minutos; s ; 5 
+VIA-00393;07/07/2026;Centro;CENTRO; bus ;9:50 PM;46,5;no;-
+VIA-00394;10/10/2025;Norte;CENTRO; bus ;14h15;63,4 minutos;no;NA
+VIA-00395;2025-03-24; norte ;NORTE;Automóvil;08:10;72,0 min; s ;3
+VIA-00396;2026-05-13;NORTE;Valle;Automóvil;19:40;25,0 min;No;-
+VIA-00056;19/05/2025;Centro; sur ;BUS;12:15;28,2;No;
+VIA-00398;2026-02-03;Norte;Valle; bus ;10:50;36,7 minutos;SI; 5 
+VIA-00399;19/06/2025;SUR; norte ;BUS;08:45;38,4 minutos; NO ;-
+VIA-00400;01/09/2025; valle ; valle ;Bus;14:30;41,5; s ;3
+VIA-00401;14/04/2025;SUR;CENTRO; AUTOMOVIL ;8:20 PM;28,9;n;-
+VIA-00402;2026-04-15;NORTE;NORTE;Automóvil;23:25;34,4;Sí; 3 
+VIA-00403;2025-12-08;SUR;Norte;BUS;20:35;51,2;yes;sin calificar
+VIA-00404;2025-09-11;CENTRO; valle ;automovil;10:10;$25,3 min;No;NA
+VIA-00405;2026-04-08;CENTRO;Norte;BUS;18:20;153,4;si; 2 
+VIA-00406;02/03/2025; norte ; norte ; bus ;11:30;53,7;SI;5
+VIA-00407;2025-05-14;SUR; valle ; AUTOMOVIL ;21:30;41,7;No;-
+VIA-00408;16/07/2026;Norte; norte ;Bus;9:40 PM;38,2 minutos; NO ;NA
+VIA-00409;2025-06-15;Valle;Norte;Automóvil;9:25 PM;0,30;si;4
+VIA-00410;2026-03-25; norte ;Centro;Motocicleta;23:40;0,35 h;No;
+VIA-00411;2025-11-27; valle ;Valle;BUS;08:50;30,7 minutos; s ;5
+VIA-00300;22/04/2026; norte ; valle ; AUTOMOVIL ;20:15;28,2;si;6
+VIA-00413;2025-10-11;CENTRO;SUR; AUTOMOVIL ;10:55 PM;no registrado;Sí; 5 
+VIA-00414;27/06/2025;Centro; valle ;automovil;12:50;12,7 minutos;no;
+VIA-00415;2026-04-16;NORTE;Centro;automovil;7:00 PM;24,1 minutos; NO ;-
+VIA-00416;2025-12-23;Centro; centro ;Bus;23:25;35,8 minutos;No;NA
+VIA-00417;29/04/2026;Centro; centro ;BUS;09:40;40,0;n;NA
+VIA-00418;17/08/2025;Valle;Centro;BUS;08:25;0,64;yes; 5 
+VIA-00419;18/04/2025;NORTE;Centro;Bus;10:35;34,7;SI;3
+VIA-00420;22/06/2026;VALLE; sur ;Bus;18:10;65,0; NO ;-
+VIA-00421;-;SUR;Centro; AUTOMOVIL ;18:40;19,5 min;n;-
+VIA-00422;2026-07-15;Norte;Centro;BUS;17h10;35,5 min;Sí;4
+VIA-00423;23/06/2026;Centro;Sur;motocicleta;7:20 PM;7,81;no;NA
+VIA-00424;15/09/2025;Centro;NORTE; AUTOMOVIL ;09h00;28,4 minutos;No;
+VIA-00425;25/08/2026;NORTE;VALLE;Bicicleta;08:50;45,9 min;no;-
+VIA-00426;2026-02-22;NORTE; valle ;Bus;14:20;44,1 minutos;Sí;4
+VIA-00427;2025-10-13;CENTRO;Sur; AUTOMOVIL ;9:10 PM;56,7;si; 5 
+VIA-00428;2025-02-21;SUR;SUR;BUS;18:25;106,7 minutos;Sí;3
+VIA-00429;2025-10-18; centro ;VALLE;BUS;08:00;27,0 min;No;NA
+VIA-00430;2026-04-25;CENTRO;SUR;BUS;18:45;33,4 minutos;SI;4
+VIA-00431;21/08/2025;Valle; centro ; AUTOMOVIL ;15:25;27,1 minutos;No;NA
+VIA-00432;;Centro;NORTE;Bus;17:10;19,9 min;No;NA
+VIA-00433;13/09/2026;Valle;Centro;Bus;18:35;0,42; NO ;-
+VIA-00434;17/01/2026;Valle;Valle;Bicicleta;18:05;18,1;yes;5
+VIA-00435;2026-03-19; sur ;Norte;automovil;12:10;114,1 min;yes;4
+VIA-00436;04/03/2025; centro ;CENTRO; AUTOMOVIL ;13:35;42,5 minutos;n;
+VIA-00437;17/04/2025;Sur;VALLE;Bicicleta;5:50 PM;23,2 min;No;
+VIA-00438;16/08/2026; norte ;Sur;BICICLETA;05:40;25,1 min;SI; 4 
+VIA-00439;2025-02-22;NORTE; valle ;automovil;09h05;28,1 min; NO ;-
+VIA-00440;2026-04-24;Sur; norte ; AUTOMOVIL ;22:50;23,9 min;no;-
+VIA-00441;2026-09-23; sur ;Norte; AUTOMOVIL ;19:25;15,4 minutos;no;
+VIA-00442;2025-12-01;CENTRO; norte ; AUTOMOVIL ;9:30 PM;24,3 minutos; NO ;NA
+VIA-00443;2025-07-03; valle ;Centro; AUTOMOVIL ;11:55;33,8 minutos;SI;4
+VIA-00444;04/09/2025; centro ;Norte;Automóvil;13:25;27,7 min; NO ;
+VIA-00445;01/08/2025; norte ;VALLE;Motocicleta;07:05;21,6;No;
+VIA-00446;2026-04-02; norte ; norte ; AUTOMOVIL ;12:40;31,9 min; s ; 4 
+VIA-00447;2025-01-21;Centro;Sur;automovil;20:25;28,7;no;-
+VIA-00448;14/12/2025;Valle; centro ;automovil;17:15;30,4 minutos;No;-
+VIA-00449;2026-06-05; valle ;Valle; AUTOMOVIL ;18:35;26,7 min;n;NA
+VIA-00450;2025-07-19;Valle; sur ; AUTOMOVIL ;08:10;20,6 min;n;NA
+VIA-00451;18/07/2025;Norte;Sur; bicicleta ;13:15;32,9 minutos;n;-
+VIA-00452;06/07/2026;CENTRO; centro ;Bus;11:05 PM;0,43; NO ;NA
+VIA-00453;2025-01-21;Sur;Centro;automovil;11:15;0,68 h; s ;5
+VIA-00454;2026-03-30;Sur; valle ;BICICLETA;08:05;26,2 minutos;yes; 4 
+VIA-00455;2026-02-21;Valle;VALLE;automovil;19:00;26,0 minutos; NO ;-
+VIA-00456;2025-06-02; norte ;SUR; bus ;15:15;71,0;yes;4
+VIA-00457;14/06/2026; centro ;Centro;BICICLETA;07h50;24,5 minutos;No;-
+VIA-00458;2025-04-04;Norte;NORTE; bus ;07:40;7,59;no;
+VIA-00459;2025-08-09;SUR;Centro; AUTOMOVIL ;21:10;15,9 minutos;No;NA
+VIA-00460;02/08/2025;CENTRO;Valle;automovil;23:35;34,4 min;si;5
+VIA-00461;2025-06-10;Sur;Norte;Automóvil;09h20;0,46 horas;n;
+VIA-00462;2026-07-04;CENTRO;CENTRO;automovil;19:00;47,6 min;si; 4 
+VIA-00463;2026-09-01;NORTE; centro ; bus ;11:50;0,52 horas; s ; 3 
+VIA-00464;2026-06-10; norte ;CENTRO; MOTOCICLETA ;08:35;66,1;yes;3
+VIA-00465;2026-03-25;Centro;Sur;Bus;12:45;63,2 minutos;si;4
+VIA-00466;08/03/2025;Centro; centro ; bicicleta ;20:20;15,3 min;no;NA
+VIA-00467;02/01/2026;CENTRO; sur ; AUTOMOVIL ;20:00;91,5;Sí; 3 
+VIA-00468;26/01/2026;Valle;SUR; AUTOMOVIL ;18:55;45,0 min;yes;4
+VIA-00469;2025-06-25; norte ;Norte; bus ;19h55;35,9; NO ;-
+VIA-00470;22/04/2026;Norte;Norte; AUTOMOVIL ;12:45;21,9;No;NA
+VIA-00471;05/03/2025;VALLE;CENTRO;Bus;8:45 PM;40,4 min;no;NA
+VIA-00472;08/04/2025;NORTE; sur ;Bus;08:35;36,7 min; s ;4
+VIA-00473;26/04/2025;SUR; norte ;Motocicleta;12h00;42,9 minutos;si;4
+VIA-00474;23/01/2026;Centro; valle ;automovil;06:35;34,7;n;
+VIA-00475;2025-03-19; centro ;NORTE;Automóvil;21h00;N/A;no;
+VIA-00476;2026-01-14;Centro; norte ;BUS;10h05;62,3 min;SI;4
+VIA-00477;2025-12-11; centro ;NORTE; bus ;12:35;48,4 min; s ; 4 
+VIA-00478;2026-06-18;VALLE;NORTE;Automóvil;18:50;7,50 min;No;-
+VIA-00479;06/02/2025;CENTRO; norte ; AUTOMOVIL ;21:25;31,9 min;SI;4
+VIA-00480;17/03/2026;Norte;Valle; bus ;15:20;31,3 min;SI; 3 
+VIA-00481;24/12/2025;Centro;VALLE; bus ;10:30;$46,6 minutos; NO ;NA
+VIA-00482;2026-09-16;CENTRO;Sur; AUTOMOVIL ;09:05;40,7 min;yes; 4 
+VIA-00483;31/10/2025; centro ;Centro; AUTOMOVIL ;17h25;15,7 minutos;No;-
+VIA-00484;2025-05-03; norte ;CENTRO; bus ;09:10;53,8;n;NA
+VIA-00485;2025-10-05; centro ;VALLE;Automóvil;18:40;28,2 min;SI;3
+VIA-00486;04/04/2026; valle ;SUR; bus ;08h55;$59,9 min;no;-
+VIA-00487;2026-09-24;NORTE; valle ;Bicicleta;07:35;14,9 min;No;NA
+VIA-00488;2025-02-13;Sur;CENTRO;motocicleta;08:50;40,9 min;Sí;5
+VIA-00489;2026-03-15;SUR;CENTRO; bus ;10:00;67,6 min;SI;3
+VIA-00490;20/12/2025;Norte;VALLE;BICICLETA;10:20 PM;24,9;n;-
+VIA-00491;10/08/2025; centro ;VALLE; AUTOMOVIL ;11:10;52,5 minutos; NO ;
+VIA-00492;2025-04-15;CENTRO;Norte;Automóvil;08:20;13,5 min; NO ;-
+VIA-00493;11/07/2025; sur ;Norte;Bus;9:55 PM;29,0 min; NO ;
+VIA-00494;2026-09-18; norte ; centro ;Bicicleta;06:10;14,1 min;SI;5
+VIA-00495;10/06/2025;VALLE;Norte;Bus;05:30;43,6;yes;4
+VIA-00496;2025-06-22; norte ;Valle; bus ;15:55;38,5; NO ;-
+VIA-00497;19/05/2025;VALLE;NORTE;Bicicleta;19:45;15,6;no;NA
+VIA-00498;2025-05-17; centro ;Norte;Bicicleta;6:00 PM;56,3 min; s ; 5 
+VIA-00499;02/11/2025; centro ; valle ;Automóvil;23:00;17,5 minutos; s ;5
+VIA-00500;2026-03-16; valle ; norte ; bus ;21:40;63,0;yes;4
+VIA-00501;16/04/2026;NORTE;Norte;BUS;09:20;72,1;si;5
+VIA-00502;16/01/2025;Norte; valle ;BUS;10:55 PM;50,1;SI; 5 
+VIA-00503;2025-08-16;Centro;Norte;Automóvil;18:50;0,55 h;yes;4
+VIA-00504;2026-01-30;CENTRO;Norte;Motocicleta;18:55;25,8 min;no;-
+VIA-00505;2026-03-02;NORTE; sur ;BUS;11:25;41,5;Sí;4
+VIA-00506;07/10/2025;NORTE;Norte;BUS;5:15 PM;67,9 min; s ;3
+VIA-00507;2026-07-02; sur ;Valle;Bus;10:20;29,8 min;no;
+VIA-00508;2026-03-13;SUR;VALLE;BUS;09:20;20,2 min;no;NA
+VIA-00509;09/02/2025;SUR;Sur; bus ;09:40;79,5;Sí;4
+VIA-00510;2025-05-10;NORTE;NORTE;Motocicleta;10:25;24,5 min;No;-
+VIA-00511;2025-10-07; sur ;NORTE;Automóvil;16:00;15,7 minutos;Sí; 5 
+VIA-00512;2026-09-03;Norte; norte ;BICICLETA;11:40;20,3 minutos; NO ;-
+VIA-00513;2026-03-13; centro ;Valle;automovil;07:15;26,2 minutos;No;NA
+VIA-00514;24/03/2026;Valle;CENTRO; bus ;09:20;67,4 min;n;
+VIA-00515;2025-08-03;CENTRO;SUR;motocicleta;10:55;66,2 minutos;n;NA
+VIA-00516;21/03/2026; centro ; sur ;automovil;13:55;20,4 minutos; NO ;NA
+VIA-00517;27/04/2025;Norte; sur ;automovil;07:05;71,4 min;Sí;4
+VIA-00518;2025-09-07; sur ;Valle;Bicicleta;16:50;23,1 min;No;-
+VIA-00519;2025-04-06; sur ;VALLE;BICICLETA;07h35;16,9;no;
+VIA-00520;24/09/2026;NORTE; centro ;Bus;17:15;76,3 minutos;No;
+VIA-00521;03/03/2025;Norte;Norte; bus ;19:25;0,75;Sí;4
+VIA-00522;2026-07-21;NORTE;Sur; bus ;15:30;52,6 minutos;yes;5
+VIA-00523;11/06/2025;Centro;Sur;BICICLETA;19:25;0,50 h;SI;4
+VIA-00524;15/05/2025;Sur;Centro; AUTOMOVIL ;18:05;0,62; s ; 5 
+VIA-00525;2026-09-04;Sur; norte ;BUS;12:40;77,6; s ;2
+VIA-00526;06/09/2026; valle ; valle ;BUS;6:45 PM;54,5 minutos;yes;4
+VIA-00527;2026-08-12;NORTE;Norte;Automóvil;16:40;30,3 min;Sí;4
+VIA-00528;2026-04-12;Centro; norte ; bicicleta ;17:00;24,5 min;No;-
+VIA-00529;28/05/2026; sur ;CENTRO;Bus;09:35;55,1 minutos;No;NA
+VIA-00530;29/01/2025;VALLE; centro ;Bus;16:50;0,63 h;yes; 5 
+VIA-00531;12/04/2025;Sur;Norte;automovil;5:25 PM;88,3 min; s ;4
+VIA-00532;2026-04-28;SUR;SUR;Automóvil;16:35;16,5;n;NA
+VIA-00533;06/10/2025; valle ;Norte;automovil;05:15;30,0;si;5
+VIA-00534;23/04/2026; valle ;Sur;automovil;05:25;45,0 minutos;si;3
+VIA-00535;11/02/2026;Sur; valle ; bus ;09:15;NA;no;NA
+VIA-00536;05/03/2025;SUR; norte ;Bus;14:10;61,5 min; s ; 4 
+VIA-00537;15/06/2026;CENTRO;Centro;automovil;16h15;33,5 minutos;Sí; 4 
+VIA-00538;25/10/2025;SUR;NORTE; MOTOCICLETA ;09h20;37,7;No;-
+VIA-00539;2026-06-23;Norte;Valle;automovil;17:55;26,4 minutos;No;-
+VIA-00540;22/10/2025;Centro;CENTRO; bicicleta ;11:40 PM;0,40 h;No;-
+VIA-00541;16/09/2025;Valle;CENTRO; AUTOMOVIL ;13:15;32,2 min;n;-
+VIA-00542;2026-02-13;Centro; norte ;Automóvil;09:35;23,9 min;no;-
+VIA-00543;06/02/2025;NORTE;NORTE;Automóvil;8:30 PM;25,3;No;NA
+VIA-00544;2026-02-12; valle ; sur ;Automóvil;18:40;32,5; NO ;
+VIA-00545;2025-02-01;Sur;Valle; MOTOCICLETA ;12:00;13,0 minutos;yes;5
+VIA-00546;2025-03-16;Valle;CENTRO;BUS;07:50;26,3;No;
+VIA-00547;20/06/2026; norte ;VALLE;BUS;16:45;0,75;No;NA
+VIA-00548;2026-06-24;SUR; sur ;BUS;7:35 PM;47,9 minutos; NO ;-
+VIA-00549;19/04/2026; sur ; valle ; AUTOMOVIL ;19:05;14,8;No;NA
+VIA-00550;11/03/2026; norte ;VALLE;Automóvil;09:20;41,0; NO ;NA
+VIA-00551;2025-02-21;Sur;Centro;BUS;11:05;37,6;si; 4 
+VIA-00552;2026-08-12; centro ;CENTRO;BICICLETA;17:25;18,4 minutos;no;
+VIA-00553;30/03/2025; norte ; valle ;Bus;15h45;59,1 minutos;n;-
+VIA-00554;2025-01-23;Valle;NORTE;Automóvil;23:45;0,52 horas;SI; 4 
+VIA-00555;2026-04-08; centro ;Sur; bus ;16:55;55,3 minutos;n;-
+VIA-00556;11/03/2026;Sur; centro ;Bus;17h15;0,82 horas;SI; 4 
+VIA-00557;2025-06-21; sur ;NORTE;Automóvil;20:40;43,1 min;Sí;4
+VIA-00558;02/08/2025;CENTRO;NORTE;automovil;09:20;98,0;no;-
+VIA-00559;2025-03-28;Centro; sur ;Bus;14:40;no registrado; NO ;NA
+VIA-00560;2025-08-19; valle ; sur ;BUS;05:20;0,84;si;4
+VIA-00561;2025-01-25;Sur;CENTRO;automovil;10:00;no registrado;yes;5
+VIA-00562;2025-04-19; centro ;Sur;Bus;6:00 PM;36,0 minutos; s ;5
+VIA-00563;02/04/2026;SUR;NORTE;motocicleta;07:55;79,6 minutos;si; 3 
+VIA-00564;26/03/2026; norte ;Norte;Bus;4:10 PM;13,0;No;-
+VIA-00565;08/06/2026;Sur;NORTE; AUTOMOVIL ;17:15;0,38 horas;no;-
+VIA-00566;2025-08-27;Sur;Sur;Motocicleta;16:55;22,2 min; NO ;
+VIA-00567;2025-04-03;Centro;Sur;motocicleta;10h15;11,8 minutos;n;NA
+VIA-00568;2025-12-07;Centro;Valle;Bus;08:00;18,7 min; s ;5
+VIA-00569;2025-03-13;CENTRO;VALLE;Bus;11:25;58,7 min;SI;3
+VIA-00570;22/04/2026; sur ; sur ;Automóvil;17:30;26,0 min;no;NA
+VIA-00571;20/01/2025; norte ;NORTE;Bus;11:40;80,5 min;yes;4
+VIA-00572;14/09/2025; centro ;Norte;Automóvil;11:15;28,9; NO ;NA
+VIA-00573;19/10/2025;VALLE; sur ; bus ;10:10;25,9 min;n;
+VIA-00574;2025-06-26;SUR; norte ;Automóvil;8:10 PM;37,7;SI;5
+VIA-00575;2026-03-06;VALLE; sur ; bus ;22:55;40,5 minutos;no;NA
+VIA-00576;2025-04-20;Valle; norte ;Automóvil;23:45;35,7;no;
+VIA-00577;27/08/2026;Sur;Valle;Automóvil;09:55;68,3;SI;3
+VIA-00578;26/09/2026; sur ;Sur;Automóvil;07:20;34,5 minutos;Sí;4
+VIA-00579;2025-02-11;Norte;NORTE; MOTOCICLETA ;12:35;13,3 min;no;NA
+VIA-00580;2025-10-30;Norte;VALLE;Bus;18:00;38,8 min;yes;5
+VIA-00581;18/06/2026;Centro;Norte;BICICLETA;07:45;16,2;n;NA
+VIA-00582;2025-12-06; centro ;Centro; MOTOCICLETA ;10:00;27,7 min;No;NA
+VIA-00583;2026-04-03;SUR; sur ; AUTOMOVIL ;19h35;19,5 minutos;No;
+VIA-00584;2025-06-18; sur ;Centro; AUTOMOVIL ;19h30;34,7 min;Sí; 5 
+VIA-00585;2025-04-17;NORTE;Centro;Bicicleta;22:45;$38,0 min;Sí;4
+VIA-00586;17/03/2025;Norte;Norte; AUTOMOVIL ;5:15 PM;31,3;yes;4
+VIA-00587;27/07/2025;Centro;Valle;motocicleta;21:30;15,4 minutos;n;NA
+VIA-00588;2025-05-03;NORTE;NORTE; bus ;20:20;54,1 minutos;no;
+VIA-00589;2026-03-11; sur ; centro ; AUTOMOVIL ;06:20;46,3;si;5
+VIA-00590;09/06/2025;Sur;Centro;automovil;17h00;0,72 h;No;-
+VIA-00591;22/03/2026;VALLE; norte ;Automóvil;10h30;25,8; s ;5
+VIA-00592;13/02/2025;VALLE;Centro;motocicleta;11:45 PM;12,0;No;NA
+VIA-00593;2025-04-15;CENTRO; centro ;automovil;21:00;37,3 min; s ;4
+VIA-00594;01/08/2026; norte ;VALLE;Automóvil;2:00 PM;14,3 min;n;-
+VIA-00595;2026-06-04;NORTE;VALLE; bus ;18h55;28,5;yes;5
+VIA-00596;2025-06-25; valle ; valle ; bus ;10:50;22,1;No;NA
+VIA-00597;2025-05-10; valle ; valle ;Bus;15:30;44,9 minutos;SI;3
+VIA-00598;23/03/2026; centro ;CENTRO;Bus;17:55;34,3 minutos;No;
+VIA-00599;17/08/2026;CENTRO;Centro;Motocicleta;15:45;21,0 min;no;-
+VIA-00600;2026-04-11; norte ;Centro;Bicicleta;18:20;0,65 horas; s ; 5 
+VIA-00601;19/06/2026;NORTE;Centro;automovil;14:40;33,6;yes;4
+VIA-00602;2025-04-18;Centro;VALLE;BUS;08:15;0,77;si;4
+VIA-00603;09/11/2025;Valle; valle ;BUS;17:50;30,4 min;Sí;5
+VIA-00604;2025-06-12;CENTRO; centro ;BICICLETA;20:45;27,2 minutos; NO ;
+VIA-00605;10/01/2026;VALLE; sur ; bus ;17:50;70,5;n;-
+VIA-00606;2026-06-25;Valle; centro ;Bus;10:45;28,6 min;No;
+VIA-00607;05/10/2025;Norte; valle ;Bus;17:00;22,8 min; NO ;NA
+VIA-00608;22/08/2025;Centro;NORTE;Motocicleta;09:15;20,3;Sí;5
+VIA-00609;30/07/2026;CENTRO; sur ;BUS;19h15;0,66;n;NA
+VIA-00610;2026-04-04;Norte; valle ;BUS;10:35;15,8 minutos;n;
+VIA-00611;22/07/2025;SUR;VALLE;Bus;6:10 PM;34,7;No;NA
+VIA-00612;2025-10-12; norte ;VALLE;BUS;09:40;69,0; NO ;NA
+VIA-00613;2026-04-09; norte ; valle ; AUTOMOVIL ;07:20;40,2 min;si; 4 
+VIA-00614;2026-08-13;Norte;Sur;Automóvil;15h05;20,7 minutos;SI;5
+VIA-00615;2026-07-20;CENTRO;NORTE;Bus;20:20;0,67 h;si;4
+VIA-00616;14/07/2025;VALLE; valle ; bus ;17:50;39,7 min;SI; 4 
+VIA-00617;2025-09-07;Sur; sur ;Automóvil;11:40;57,8 minutos;si;5
+VIA-00618;2025-09-28;Valle;Centro;motocicleta;18:40;29,7;n;
+VIA-00619;13/06/2026; centro ;Valle; bicicleta ;19h30;0,49;No;
+VIA-00620;2026-05-05; valle ;NORTE;Bus;13h00;92,7;SI; 3 
+VIA-00621;29/03/2026;Sur;Norte; MOTOCICLETA ;09:55;38,5; s ;4
+VIA-00622;08/02/2026;Norte; valle ;Automóvil;9:15 PM;28,8 minutos;SI; 5 
+VIA-00623;2026-03-02;CENTRO;CENTRO; bus ;18:20;45,0 min;n;
+VIA-00624;2026-03-25;Centro;CENTRO;Motocicleta;11:45;24,2;SI;5
+VIA-00625;2026-07-24; valle ;Centro;automovil;18h35;32,8;n;-
+VIA-00626;20/01/2025;Sur;CENTRO; bus ;7:55 PM;19,2;No;NA
+VIA-00627;16/01/2026;Valle; sur ;Bus;14h40;39,3;SI; 4 
+VIA-00628;15/10/2025; norte ; norte ; AUTOMOVIL ;5:20 PM;20,4 min;Sí; 4 
+VIA-00629;2025-12-09; sur ;Centro; AUTOMOVIL ;11:55;63,2 min;si;4
+VIA-00630;2025-02-05;Norte;SUR;BUS;17:30;0,96 horas;No;
+VIA-00631;27/07/2025;Centro;CENTRO;Bus;18:05;31,9;yes;4
+VIA-00632;2025-03-11;CENTRO; norte ; AUTOMOVIL ;09:40;59,7 min;n;NA
+VIA-00633;29/04/2026;VALLE; valle ;Bus;10:50;60,0; s ;5
+VIA-00634;2025-09-22;Valle;Valle;motocicleta;19:35;13,8;yes;5
+VIA-00635;04/05/2026;Centro;VALLE;BUS;4:15 PM;24,6 min;No;
+VIA-00636;24/04/2026;NORTE; sur ; AUTOMOVIL ;12:35 PM;28,7;n;
+VIA-00637;2026-02-08;CENTRO;NORTE;Automóvil;12:30;40,6 minutos; s ;3
+VIA-00638;2025-03-05;SUR; centro ;Automóvil;21:45;27,0;n;
+VIA-00639;2025-05-17; sur ;Sur;BICICLETA;20:15;27,9 min;No;-
+VIA-00640;20/03/2026;Norte;Centro; AUTOMOVIL ;10:15 PM;22,0;no;-
+VIA-00641;2025-09-05;Sur; centro ;BUS;10h15;56,9; s ;5
+VIA-00642;2025-09-29; centro ;Sur;automovil;13:40;15,3 minutos;No;-
+VIA-00643;05/07/2025;SUR; centro ; bus ;10:15;83,3 minutos;SI;4
+VIA-00644;08/02/2025;CENTRO; centro ;BUS;08:35;57,2 minutos; s ;4
+VIA-00645;10/02/2026;Valle; valle ;motocicleta;10:05;19,8 minutos;no;
+VIA-00646;2025-11-05;NORTE;NORTE;Automóvil;13:30;21,9;n;NA
+VIA-00647;-;Sur; sur ;BUS;19:55;87,4;SI; 5 
+VIA-00648;26/07/2025;Norte;VALLE; MOTOCICLETA ;16:35;24,1 minutos;no;NA
+VIA-00649;2026-08-03;Valle; valle ; bicicleta ;12:00;29,5 minutos;yes;5
+VIA-00650;19/10/2025; centro ;Centro;Automóvil;17:30;34,2; NO ;NA
+VIA-00651;2025-07-20; valle ;Valle;Motocicleta;18:25;24,1 minutos;n;-
+VIA-00652;2025-03-26;Norte;NORTE; bus ;13:00;37,0 minutos;no;NA
+VIA-00653;02/01/2026;Norte;VALLE; bus ;9:25 PM;36,0 minutos; s ;5
+VIA-00654;2026-06-14;Norte;NORTE;automovil;06h55;32,0; s ; 4 
+VIA-00655;18/01/2025; norte ; sur ;BUS;14:00;31,7 min;Sí;5
+VIA-00656;2026-05-10;CENTRO;Sur;motocicleta;13:00;59,8 min;no;NA
+VIA-00657;28/03/2026;Sur; centro ;BUS;6:35 PM;21,5 minutos;No;-
+VIA-00658;25/09/2026; valle ;Norte; AUTOMOVIL ;06:25;$43,2 minutos;n;NA
+VIA-00659;2025-05-17; norte ; sur ;automovil;18:00;33,1;Sí;4
+VIA-00660;31/07/2025; centro ;NORTE;Bus;18h05;39,6 min; s ;4
+VIA-00661;2026-09-16; sur ; sur ;Bicicleta;09h05;0,53 horas;n;-
+VIA-00662;20/05/2026;Sur; norte ;motocicleta;06:50;23,1 min;n;-
+VIA-00663;03/08/2026;NORTE;NORTE;Bus;5:35 PM;126,3; NO ;-
+VIA-00664;30/04/2025;Norte; sur ;automovil;17:40;26,0 min; s ;4
+VIA-00665;2025-07-19;SUR;Sur; AUTOMOVIL ;11:15;17,8 minutos; NO ;
+VIA-00666;2025-06-17;SUR;Sur; bus ;09:05;69,0 minutos;SI;2
+VIA-00667;2025-05-30; norte ;VALLE;BUS;10:20 PM;87,4 min;SI;3
+VIA-00668;12/04/2025; norte ;Valle;BUS;11:50 PM;$32,8 min;SI;4
+VIA-00669;2025-09-22;CENTRO; centro ; bus ;18:45;43,0 min;Sí;5
+VIA-00670;21/11/2025; centro ;VALLE;Bus;10:10 PM;81,6 minutos;n;-
+VIA-00671;2025-11-20;Norte;Sur;Bus;08h20;83,9 minutos;yes;2
+VIA-00672;02/06/2026;NORTE; sur ; bicicleta ;10:15;31,2 minutos;No;-
+VIA-00673;03/04/2025;Norte;NORTE;motocicleta;09h20;16,0; NO ;NA
+VIA-00674;14/01/2026;Norte;SUR;BICICLETA;21:15;0,36; NO ;NA
+VIA-00675;2025-09-07;CENTRO;Valle;BUS;22:10;59,8;n;NA
+VIA-00676;2025-12-30;SUR;CENTRO; bicicleta ;16:25;35,2 min;si;5
+VIA-00677;26/04/2025;Valle; valle ;Bus;08:10;90,7;Sí;4
+VIA-00678;2026-04-18; norte ; norte ;BUS;09:10;43,9 min;Sí; 5 
+VIA-00679;06/04/2025; centro ; sur ;BUS;09h30;85,8 min;no;
+VIA-00680;22/12/2025;CENTRO; sur ;Automóvil;09:00;57,2 min;SI;4
+VIA-00681;2025-10-10;SUR;CENTRO; AUTOMOVIL ;09:55;15,7 min;Sí; 4 
+VIA-00682;07/05/2025;Norte;Centro;Automóvil;21:55;23,9 minutos;no;NA
+VIA-00683;06/07/2025;CENTRO; sur ; AUTOMOVIL ;15:00;38,1; s ;3
+VIA-00684;2025-04-23;Norte;NORTE;Bus;09:25;30,9 min;Sí; 4 
+VIA-00685;05/08/2026;VALLE;Sur;BUS;08:55;32,2 min;SI; 4 
+VIA-00686;27/07/2025; valle ;Valle;Motocicleta;11:20;13,1 minutos;no;NA
+VIA-00687;06/01/2026;Centro;Valle; bus ;09:05;59,2 min;yes; 3 
+VIA-00688;2025-06-06;Centro;VALLE;Bus;21h20;42,5 min;no;
+VIA-00689;2025-07-10;SUR; sur ; AUTOMOVIL ;19:35;32,0 min;no;-
+VIA-00690;04/12/2025;Norte; valle ;Automóvil;17:20;27,4 min;No;
+VIA-00691;2026-02-10;NORTE; sur ;BICICLETA;19:35;29,7 min;SI;5
+VIA-00692;19/08/2025;Centro;Sur;automovil;11h20;0,48; s ;5
+VIA-00693;2026-08-21;VALLE;CENTRO; bicicleta ;10:25;43,0 min;Sí;3
+VIA-00694;13/06/2025;Sur;Sur; AUTOMOVIL ;16h50;101,9;No;
+VIA-00695;2025-11-07;Sur;Valle;Bus;16:05;29,0 min;n;
+VIA-00696;21/03/2026; valle ;Norte;Bicicleta;18:40;42,2 minutos;Sí;5
+VIA-00697;2026-09-19;Valle;Norte;BUS;21h15;36,4; s ; 4 
+VIA-00698;2025-06-09;SUR;Centro;Automóvil;20:55;32,5 min; s ;5
+VIA-00699;2025-06-06; norte ;Centro;automovil;11:05 PM;68,9 min;n;-
+VIA-00700;2025-03-17; centro ;Valle;Bus;22:55;34,6 minutos; s ; 3 
+VIA-00438;2025-05-02;NORTE;SUR; AUTOMOVIL ;21:35;17,0 minutos; NO ;
+VIA-00320;2026-07-23;VALLE; norte ;automovil;12:25;19,5;no;NA
+VIA-00703;24/01/2026;Norte; sur ;Bicicleta;15:40;19,0 min;no;-
+VIA-00704;2025-10-31; centro ;VALLE; MOTOCICLETA ;11:20;31,0 minutos;n;NA
+VIA-00705;2025-06-11;Sur;Sur;BUS;11:50;45,8 minutos;SI; 5 
+VIA-00706;13/03/2026;CENTRO;CENTRO;BICICLETA;18h20;;si; 4 
+VIA-00707;10/06/2026;Sur; sur ; bus ;18:45;36,5 minutos;No;
+VIA-00708;27/11/2025;Valle;Sur;Automóvil;11:30;28,7 min;No;
+VIA-00709;29/12/2025; norte ;Sur;Bus;07:35;0,00 horas;yes;5
+VIA-00710;23/04/2026;NORTE;Norte; MOTOCICLETA ;19:00;$40,2 minutos;No;-
+VIA-00711;21/11/2025;Norte; norte ;Motocicleta;16h25;60,2; NO ;NA
+VIA-00712;2025-04-10; norte ; norte ; bus ;11h50;44,1 min;No;-
+VIA-00713;2026-07-04; sur ; sur ; bus ;4:50 PM;16,8 min;n;
+VIA-00714;2026-03-18;NORTE;VALLE;Automóvil;17:00;24,9 minutos;n;
+VIA-00715;25/05/2026; centro ; valle ;automovil;12:25;31,7;si;4
+VIA-00716;2026-01-25;Norte;CENTRO; AUTOMOVIL ;12:30 PM;55,6;SI;4
+VIA-00717;2025-10-28;Sur;NORTE;motocicleta;20:05;35,8 min;n;
+VIA-00718;29/04/2026;Centro; sur ; MOTOCICLETA ;11h50;27,6 min;No;NA
+VIA-00719;09/07/2025; sur ;SUR;Automóvil;21:45;0,47 horas; NO ;-
+VIA-00720;06/08/2025; centro ;Sur;BICICLETA;18:10;27,4;n;NA
+VIA-00721;2025-06-18; valle ;Norte; AUTOMOVIL ;10:20;41,7 minutos; NO ;NA
+VIA-00722;2026-09-10; valle ;Norte;Motocicleta;16:30;21,4;n;-
+VIA-00723;2025-04-11;NORTE;Sur;Bus;15:45;113,1 minutos;si;3
+VIA-00724;2025-04-02; centro ;VALLE; bus ;07:20;58,8 min;Sí; 4 
+VIA-00725;2025-03-10;SUR; centro ; bus ;19:30;50,3 minutos;Sí;5
+VIA-00726;31/03/2026;SUR;Centro; bus ;18:20;39,6;yes; 4 
+VIA-00727;06/09/2025; norte ;Valle;Bus;06:35;76,3 minutos;Sí; 4 
+VIA-00728;2026-09-19; norte ;NORTE;motocicleta;15:05;27,0;n;NA
+VIA-00729;2026-08-16;NORTE;NORTE;Automóvil;17:25;22,0 minutos;no;
+VIA-00730;23/05/2025;Centro;Sur; bus ;08:35;1,39 h;si;4
+VIA-00731;30/04/2025;Centro;Valle;automovil;20:10;0,71;n;
+VIA-00732;2025-12-15;NORTE; norte ;motocicleta;09:00;42,3;No;-
+VIA-00733;19/04/2026;NORTE;Sur; MOTOCICLETA ;08:15;18,9 minutos;No;-
+VIA-00734;2026-07-24; norte ;Norte;automovil;13h05;0,39; NO ;
+VIA-00735;2026-07-20; norte ; sur ;automovil;11:45;29,3 minutos;no;NA
+VIA-00736;11/06/2025;Norte;CENTRO;Bus;17:55;-;si; 3 
+VIA-00737;16/04/2026;Valle;SUR; bus ;09:00;42,2;Sí;4
+VIA-00738;27/07/2025;Centro;NORTE; AUTOMOVIL ;9:45 PM;14,6;n;-
+VIA-00739;2026-04-26;Sur;NORTE;automovil;2:25 PM;24,7 min;si;5
+VIA-00740;2025-05-19;CENTRO;Centro;Bicicleta;23:10;33,5;yes; 5 
+VIA-00741;16/01/2026; sur ; norte ;BUS;19:20;$0,48;no;NA
+VIA-00742;17/01/2025; norte ; sur ;Automóvil;12:40;43,0;SI;5
+VIA-00743;2026-05-07; valle ; norte ;automovil;08h45;23,3; NO ;-
+VIA-00744;09/03/2026;Sur;NORTE;motocicleta;18:35;47,7 min;n;
+VIA-00745;28/04/2026; valle ; centro ; AUTOMOVIL ;13:00;28,8 min;n;-
+VIA-00746;2026-01-14; sur ;NORTE; AUTOMOVIL ;10:50;0,74 horas;SI;5
+VIA-00747;2026-07-18; valle ;Norte;Bus;05:45;46,9;Sí; 4 
+VIA-00748;2026-04-13;Norte; centro ;BUS;16:00;s/d;No;
+VIA-00749;2025-03-15;Sur;Norte; MOTOCICLETA ;19:20;24,4;no;
+VIA-00750;18/02/2026;CENTRO;Sur; AUTOMOVIL ;18:45;10,8 min; s ;5
+VIA-00751;15/02/2026; norte ; centro ;Bus;20:05;NA;yes;4
+VIA-00752;15/11/2025;Sur;VALLE; AUTOMOVIL ;10:40;0,32;no;
+VIA-00753;19/01/2026;Norte;Centro;BICICLETA;13h15;19,2 minutos;no;NA
+VIA-00754;06/05/2025; centro ;CENTRO;Bus;08:40;37,6;SI;5
+VIA-00755;04/03/2026; sur ; centro ;automovil;10:40;140,7;si; 4 
+VIA-00756;14/10/2025; sur ;Sur;Motocicleta;08h20;80,0 minutos;si;3
+VIA-00757;2025-03-22; norte ;Norte; AUTOMOVIL ;11:15;30,4 min;yes;5
+VIA-00758;08/02/2026;CENTRO; centro ;automovil;12h20;;yes; 4 
+VIA-00759;2025-07-11; valle ;Sur;BUS;17:40;0,62; s ;4
+VIA-00760;2025-08-22; norte ;Valle;Bus;20h40;58,2 minutos; s ;3
+VIA-00761;27/08/2026;SUR;SUR;Bus;09h25;84,4 minutos;si;2
+VIA-00762;09/05/2025; norte ; valle ; AUTOMOVIL ;19:25;0,25 horas;no;NA
+VIA-00763;2026-04-03;Valle;NORTE;BICICLETA;19:55;0,28;no;
+VIA-00764;2025-06-15; norte ;Sur;motocicleta;18:30;0,54 horas; s ; 4 
+VIA-00765;19/07/2025;CENTRO; valle ;motocicleta;8:20 PM;30,1 minutos;si;4
+VIA-00766;31/05/2025; norte ;Valle; AUTOMOVIL ;09:30;20,2 minutos;n;-
+VIA-00767;fecha desconocida;Sur;CENTRO;Bicicleta;06h20;0,34 h; s ;4
+VIA-00768;2026-07-28; centro ; valle ;Automóvil;06:15;42,1 min;si;4
+VIA-00769;04/02/2025;CENTRO;VALLE;Motocicleta;13h35;29,1; NO ;-
+VIA-00770;27/03/2025;Centro; centro ; AUTOMOVIL ;11:20 PM;64,1 minutos;yes;3
+VIA-00771;22/05/2026;CENTRO;Valle;automovil;17h00;35,8 minutos;SI;4
+VIA-00772;2026-08-01;NORTE;Centro; AUTOMOVIL ;08:15;87,0 min;yes; 4 
+VIA-00773;2025-10-10;Sur; norte ;Bus;11:05;49,5 minutos;no;
+VIA-00774;2025-11-12; norte ;Valle;Automóvil;08:55;23,4; s ;4
+VIA-00775;2026-06-12; norte ; sur ; bus ;07:50;52,2; s ;5
+VIA-00776;07/03/2026;Centro;NORTE; MOTOCICLETA ;2:30 PM;19,1 minutos;SI;5
+VIA-00777;2026-04-10; sur ;Valle; MOTOCICLETA ;19:40;48,1 minutos; s ; 4 
+VIA-00778;2025-05-28;NORTE;SUR;BICICLETA;17:30;32,1; s ;4
+VIA-00779;2025-11-27;VALLE;Sur; AUTOMOVIL ;18:05;55,7 minutos;SI;4
+VIA-00780;2025-04-01; valle ;VALLE;Bus;09:25;19,0 min; NO ;
+VIA-00781;2025-05-06; valle ;NORTE;motocicleta;19:15;25,2 minutos;no;-
+VIA-00782;28/02/2025; centro ;Valle;BICICLETA;13h25;78,4 minutos; NO ;-
+VIA-00783;2025-07-10;CENTRO;SUR; AUTOMOVIL ;06h15;34,8 minutos; NO ;-
+VIA-00784;2026-01-24; sur ; sur ;BUS;14:10;134,1;SI;3
+VIA-00785;2026-08-30;Sur;Norte;Automóvil;23:10;0,53 h;SI; 5 
+VIA-00786;2025-08-20;NORTE; centro ; bus ;13:50;45,6 min; NO ;-
+VIA-00787;2026-13-04; norte ;CENTRO;BUS;16:00;0,56 horas; s ; 4 
+VIA-00788;01/08/2025; centro ;SUR;motocicleta;9:40 PM;0,59 horas;n;-
+VIA-00789;21/02/2025; sur ;Norte; bus ;12:35;35,3; NO ;
+VIA-00790;2025-11-26;SUR;Valle;Automóvil;17:45;35,8;Sí; 5 
+VIA-00791;2025-09-26;NORTE;VALLE;automovil;18:10;60,0 min; NO ;
+VIA-00792;12/09/2026;Valle; sur ;Bus;13:45;49,1 minutos;no;NA
+VIA-00793;2026-01-03;Valle;VALLE; AUTOMOVIL ;19:35;44,9 min;Sí;4
+VIA-00794;2025-07-03;CENTRO;VALLE;automovil;3:40 PM;18,5 min;no;-
+VIA-00795;16/03/2025;Valle; centro ;Motocicleta;19:05;0,60 horas; s ;4
+VIA-00796;14/06/2025; valle ;Sur;BUS;6:35 PM;63,5 minutos;No;NA
+VIA-00797;2025-03-21; sur ;Centro;BUS;6:45 PM;105,5 minutos;SI; 4 
+VIA-00798;2026-08-18;NORTE; valle ; AUTOMOVIL ;10:00;62,4 minutos;SI; 3 
+VIA-00799;2026-09-22;NORTE; sur ;Motocicleta;16:30;23,3 minutos;n;
+VIA-00800;2025-11-12; valle ;Valle; AUTOMOVIL ;12:55;38,4;SI; 5 
+VIA-00801;24/06/2025; norte ;SUR; bus ;14:40;94,9 min; s ; 4 
+VIA-00802;2025-06-15;SUR;Centro;Bus;18h55;21,0 minutos;No;
+VIA-00803;26/02/2026; centro ; centro ;Bus;10:45;37,2 min; NO ;-
+VIA-00804;2025-06-03; norte ; norte ; MOTOCICLETA ;19:25;17,8 min; NO ;
+VIA-00805;2026-08-24;Centro;Sur;Bus;15:15;64,7 min;SI; 4 
+VIA-00806;2025-12-09; norte ; valle ; bus ;10:25;20,3;n;-
+VIA-00807;; norte ;NORTE;Bus;20h35;45,6 minutos;No;-
+VIA-00808;2025-03-06;SUR; centro ;BICICLETA;07:45;51,5 min;n;-
+VIA-00809;2026-02-20; norte ;Norte;BUS;16:50;114,2;si;4
+VIA-00810;20/08/2026;SUR; valle ;Motocicleta;16:15;0,00 minutos;Sí;5
+VIA-00811;15/07/2025;NORTE;NORTE;BUS;10:40;239,2 minutos;n;-
+VIA-00812;2025-03-08;Valle;Norte;automovil;10:55;30,2 min;SI;4
+VIA-00813;26/11/2025;Norte; valle ;Automóvil;17:55;25,3; s ;5
+VIA-00814;30/06/2026;SUR;Norte;Automóvil;4:35 PM;49,9 minutos;si;5
+VIA-00815;22/01/2025;CENTRO;CENTRO;BICICLETA;19:30;0,65 horas; s ; 4 
+VIA-00816;04/06/2025;Centro;VALLE;Bus;09:50;68,1;si; 3 
+VIA-00817;2025-08-21; sur ;CENTRO;Bus;10:30;52,0 min;Sí;4
+VIA-00818;2025-02-21; norte ;VALLE; bus ;17h45;69,2 minutos;SI;4
+VIA-00819;14/12/2025;Centro; centro ;Motocicleta;09h10;38,4;SI; 4 
+VIA-00820;2026-08-25;NORTE;Sur; bus ;08:25;61,1 minutos;n;-
+VIA-00821;05/06/2026;Valle; valle ;Bus;3:20 PM;63,5 min;no;-
+VIA-00822;18/01/2025;Norte; norte ; bus ;19:45;39,0 minutos;No;NA
+VIA-00823;15/12/2025;Centro; norte ;Automóvil;15:25;38,8 minutos;n;-
+VIA-00824;2025-11-12;Centro; centro ; bus ;19h20;0,29 horas; NO ;
+VIA-00825;2026-07-04;CENTRO; sur ; bus ;08h10;53,3; NO ;
+VIA-00826;13/09/2026; norte ; sur ;Bus;21:05;65,2 min;Sí;4
+VIA-00827;06/03/2025;Centro;CENTRO;Automóvil;12:55;24,7 min;No;
+VIA-00828;fecha desconocida;SUR; centro ; bus ;17h30;-10,9 min;no;
+VIA-00829;20/05/2025;CENTRO;Norte;BUS;6:00 PM;41,9 minutos; s ;4
+VIA-00830;2026-04-29;Valle;CENTRO;Automóvil;09:55;45,5; NO ;NA
+VIA-00831;22/08/2025; norte ;Centro;Bus;18:45;37,0 minutos;No;
+VIA-00832;2026-02-09;Sur;Valle;BUS;17:50;32,4 min;SI;4
+VIA-00833;NA;Centro; centro ;BUS;08:55;0,94 h;si;5
+VIA-00834;2025-04-11;Sur;NORTE;BUS;10h40;31,7 min;No;
+VIA-00835;31/01/2026;Centro;Valle;automovil;11:45 PM;66,1;SI; 3 
+VIA-00836;24/01/2025;Sur;VALLE;automovil;17:40;35,1 minutos;yes;5
+VIA-00837;25/09/2025; centro ;Centro;BUS;8:25 PM;sin dato;SI;3
+VIA-00838;07/03/2025;Norte;Centro;BUS;11:25;42,4 minutos; s ;4
+VIA-00839;2025-12-22; valle ; centro ;Automóvil;12:45;34,9 min;No;
+VIA-00840;14/02/2026;Centro; sur ;Bicicleta;19:35;25,1 min; NO ;NA
+VIA-00841;05/03/2025;Norte;Sur;Bus;21:15;145,4 min; s ;2
+VIA-00842;2026-08-10;SUR;Centro;Bicicleta;19h00;10,4 minutos; NO ;NA
+VIA-00843;2025-05-23; centro ;Sur;motocicleta;12:45;24,0;Sí;4
+VIA-00844;30/07/2026;NORTE;CENTRO;BICICLETA;10:05 PM;29,6 minutos;n;NA
+VIA-00845;20/10/2025;Norte; sur ;motocicleta;14:45;23,7 minutos;no;
+VIA-00846;23/07/2026; norte ; centro ;Motocicleta;18:30;54,0 minutos;SI; 5 
+VIA-00847;01/03/2025; norte ; centro ;automovil;21:55;0,44;SI;5
+VIA-00848;03/01/2026; norte ; valle ; bus ;06h35;30,9 min;no;-
+VIA-00849;01/06/2025;Sur;Centro;automovil;09:40;17,7 min; NO ;
+VIA-00850;17/10/2025; norte ;SUR;Bus;13:45;27,6 min;No;-
+VIA-00851;21/07/2026;VALLE;VALLE;Bus;19:00;85,1;Sí; 3 
+VIA-00852;19/03/2025;Norte;Norte; AUTOMOVIL ;19:10;32,6;si;4
+VIA-00853;11/09/2026; norte ; valle ;automovil;22:40;33,0;Sí; 4 
+VIA-00854;2025-08-07; valle ;Sur;BUS;9:15 PM;93,8;yes;3
+VIA-00855;2026-03-24;Sur;NORTE;automovil;11:20;21,2;si;4
+VIA-00856;17/07/2025;Norte;Norte;Bicicleta;09:00;26,1;no;
+VIA-00857;2025-04-02;Valle; valle ; bus ;18h00;47,1;no;
+VIA-00858;05/06/2026;VALLE;VALLE;Bus;12h40;76,5 min;yes; 4 
+VIA-00859;20/08/2025;SUR;NORTE;Bus;18:45;23,4 min;no;-
+VIA-00860;25/03/2025;Norte;VALLE;Bicicleta;17:05;21,9;No;-
+VIA-00861;14/09/2025;SUR;Valle; bus ;14:05;62,8 minutos;n;
+VIA-00862;2026-09-24;CENTRO;SUR;Motocicleta;08:25;19,0 minutos; NO ;NA
+VIA-00863;2026-02-05; valle ; sur ;Bicicleta;8:45 PM;35,7 min;n;-
+VIA-00864;2025-11-12; norte ; centro ; bus ;9:20 PM;68,7 minutos;yes;4
+VIA-00865;2025-01-29;VALLE; sur ;Automóvil;10h05;66,3; s ;4
+VIA-00866;23/08/2026; norte ;Norte;BUS;13:25;29,1 min;yes; 5 
+VIA-00867;05/04/2026;NORTE;Centro; bus ;12:55;62,5 min;no;-
+VIA-00868;31/02/2026;SUR;CENTRO;automovil;19h30;50,7 min; s ; 4 
+VIA-00869;09/04/2026;NORTE; norte ; AUTOMOVIL ;11:45;30,4;SI; 5 
+VIA-00870;07/06/2026;SUR;VALLE;BICICLETA;14:45;28,0;Sí;5
+VIA-00871;22/09/2025; valle ;Norte; bus ;07:50;20,5; NO ;-
+VIA-00872;21/05/2025;VALLE; sur ;Bus;08:00;39,4 min;SI; 4 
+VIA-00873;2025-02-09;Centro;Centro; AUTOMOVIL ;20:20;44,8 min; s ;4
+VIA-00874;20/06/2025; valle ;VALLE;BUS;19:25;56,8;yes; 3 
+VIA-00875;2025-02-17;Sur; norte ;Automóvil;07:40;25,2;n;NA
+VIA-00876;2025-02-26;Centro; valle ; MOTOCICLETA ;12:55;33,3 min;no;-
+VIA-00877;31/02/2026;Valle;Valle;automovil;23:10;29,3 min;Sí; 5 
+VIA-00878;25/02/2026; sur ;NORTE;Bus;12:05;23,8;no;
+VIA-00879;2025-06-27;Norte;NORTE; AUTOMOVIL ;09h20;16,6;No;-
+VIA-00880;28/02/2026; centro ;CENTRO;Bus;3:45 PM;48,1 min; NO ;-
+VIA-00881;26/09/2025; norte ; valle ;Automóvil;17h10;65,0 min;No;NA
+VIA-00882;2026-02-19;NORTE;Centro;Automóvil;17:50;42,4 min;Sí;4
+VIA-00883;2025-02-16; norte ;VALLE;Automóvil;22:05;27,9;Sí; 3 
+VIA-00884;2025-11-13;VALLE;Valle;motocicleta;09:25;57,9 min;no;
+VIA-00885;2025-05-04;Centro;NORTE; AUTOMOVIL ;19:40;32,9; s ; 4 
+VIA-00886;06/09/2025; norte ; sur ;Automóvil;17h15;51,4 minutos; NO ;
+VIA-00887;2025-10-04; norte ; valle ;Bus;06:05;49,5 minutos;yes;4
+VIA-00888;06/07/2025;Valle; centro ;motocicleta;12:15;71,2;yes;0
+VIA-00889;2026-09-13; centro ; valle ; AUTOMOVIL ;08:00;128,3 minutos;si;3
+VIA-00890;2026-06-02;Norte;Sur;BUS;18h25;38,3 min;yes;4
+VIA-00891;2026-04-08; valle ; norte ;Bicicleta;20h40;98,4;Sí;3
+VIA-00892;18/05/2026; centro ; valle ; bus ;18:00;70,6 minutos;Sí;4
+VIA-00893;2025-12-31;CENTRO;SUR;automovil;11:00 PM;0,48 horas;no;
+VIA-00894;2025-12-05;SUR;NORTE; bus ;13:30;29,5 min;No;-
+VIA-00895;07/12/2025;Sur;Centro;BUS;23:30;67,1;SI; 3 
+VIA-00896;2025-03-07;Centro;VALLE;Automóvil;06:30;17,4 minutos;No;-
+VIA-00897;2026-09-14;Valle;Sur; bus ;16:30;89,9;no;NA
+VIA-00898;2025-10-29;CENTRO;Valle;Automóvil;16:25;0,54 horas; s ; 5 
+VIA-00899;2026-05-16; norte ; norte ;Bus;21:35;43,2 min;Sí; 5 
+VIA-00900;2025-08-13; norte ;Valle; bus ;15:05;53,0;SI; 5 
+VIA-00901;27/08/2025; sur ;NORTE; bicicleta ;16:20;41,9;Sí; 5 
+VIA-00902;2025-10-24;Norte;Norte;Automóvil;15:40;-6,2 min;Sí;5
+VIA-00903;2026-08-25; sur ; centro ;Bus;21:30;1,40;SI;4
+VIA-00904;2025-02-20;SUR;CENTRO;Motocicleta;17:40;12,8 minutos;Sí;5
+VIA-00905;06/07/2026; norte ; norte ; AUTOMOVIL ;13:40;20,8 min;n;NA
+VIA-00906;2025-10-18;Sur; norte ;motocicleta;10:25;20,6;No;-
+VIA-00907;29/06/2026; valle ;NORTE; bicicleta ;11:50 PM;20,5 min;n;-
+VIA-00908;10/11/2025; valle ;CENTRO; AUTOMOVIL ;11:30;53,6 min;no;-
+VIA-00909;2025-01-18;Centro;NORTE;automovil;08:15;47,0 minutos;Sí; 4 
+VIA-00910;2025-10-28;Centro;Norte;Automóvil;14:30;0,45 horas;No;NA
+VIA-00911;09/08/2025;NORTE;VALLE;BUS;13:45;24,3 minutos;no;NA
+VIA-00912;2025-11-15;CENTRO;Valle;BICICLETA;17:25;0,30 h;no;NA
+VIA-00913;2026-02-05; norte ;Centro; bus ;09h25;36,3 min;yes;4
+VIA-00914;2025-07-10;Sur;NORTE;automovil;14:35;0,44;SI;5
+VIA-00915;22/07/2026;Norte;Norte;automovil;2:45 PM;52,6;si;4
+VIA-00916;2025-08-01;NORTE;CENTRO;Automóvil;19:00;38,1;si; 4 
+VIA-00917;2025-09-14;NORTE;VALLE; bus ;10:55;0,20 h;Sí;5
+VIA-00918;2025-03-16;SUR;Valle;Bus;11:25;31,3 minutos;si;3
+VIA-00919;2026-07-31;SUR;CENTRO; AUTOMOVIL ;14:20;26,0 min; NO ;NA
+VIA-00920;2025-05-10;VALLE;Valle; MOTOCICLETA ;9:00 PM;no registrado;SI; 4 
+VIA-00921;2026-05-19;SUR;Sur; AUTOMOVIL ;8:00 PM;45,3 minutos;Sí;5
+VIA-00922;2025-08-19; centro ;Sur; AUTOMOVIL ;16:05;31,0;SI;4
+VIA-00923;2026-06-08;CENTRO;CENTRO;automovil;20h05;18,4 min;n;NA
+VIA-00924;05/08/2025;VALLE;SUR;motocicleta;09:00;19,8 min;No;-
+VIA-00925;26/07/2025;NORTE; norte ;BICICLETA;3:15 PM;14,4 minutos; NO ;
+VIA-00926;04/01/2026; norte ;CENTRO; MOTOCICLETA ;9:40 PM;21,9 min;no;
+VIA-00927;14/02/2025; norte ;Valle; AUTOMOVIL ;05:00;17,3 min;no;-
+VIA-00928;09/01/2026; sur ;SUR;Bus;21:10;no registrado;SI;3
+VIA-00929;2026-01-14;Norte;NORTE;automovil;10:10 PM;89,3 min;yes; 3 
+VIA-00930;18/07/2026;Norte;NORTE;Motocicleta;12:25 PM;29,5;no;
+VIA-00931;;CENTRO; sur ;Motocicleta;11:30 PM;18,2;n;NA
+VIA-00932;2026-02-09;CENTRO;Sur;BUS;8:45 PM;49,3 min;No;
+VIA-00933;18/06/2025; centro ;CENTRO;Bus;08:30;24,3;no;-
+VIA-00934;2025-12-09; centro ;CENTRO;Bus;12:50;0,50;si; 4 
+VIA-00935;02/06/2025;SUR;Valle;Automóvil;19:15;62,3;no;NA
+VIA-00936;2026-03-31;VALLE; centro ;Automóvil;18:05;52,1;SI; 5 
+VIA-00937;2026-03-08;Norte; centro ; bus ;8:35 PM;29,8 minutos;no;
+VIA-00938;07/09/2026;NORTE; centro ;Bus;16:40;28,6;n;NA
+VIA-00939;2025-05-22;Centro;Valle; MOTOCICLETA ;15:15;30,8 minutos;si; 4 
+VIA-00940;02/06/2026;CENTRO;CENTRO;automovil;7:30 PM;28,7 minutos;no;-
+VIA-00941;2026-03-14;Sur; norte ;Motocicleta;09h20;0,49 h; NO ;-
+VIA-00942;2025-12-26;NORTE; sur ;Motocicleta;09:10;54,1 min;yes;5
+VIA-00943;04/03/2025;Centro;Centro; AUTOMOVIL ;4:55 PM;57,0 minutos;No;-
+VIA-00944;2026-02-18;Norte; sur ;BUS;07:45;60,1 min;no;
+VIA-00945;13/11/2025;NORTE; centro ; MOTOCICLETA ;08:25;33,6;no;
+VIA-00946;19/02/2026;Sur; norte ;automovil;20:00;55,8;Sí; 3 
+VIA-00947;2026-01-21;NORTE; valle ; bus ;17:35;42,7 min;SI;5
+VIA-00948;2025-09-08;CENTRO; norte ;Automóvil;20:05;21,2 minutos;SI;5
+VIA-00949;2026-03-26; norte ; valle ;BUS;13:10;37,8 min;No;
+VIA-00950;20/03/2026;Norte;CENTRO;Automóvil;8:05 PM;31,7 min;n;-
+VIA-00951;02/08/2026;Sur; sur ;Bus;12:05;47,2; s ;4
+VIA-00952;02/06/2026; valle ;Sur;Bus;11:40;63,2;n;
+VIA-00953;24/09/2026; norte ;SUR;Bus;16:10;129,4;si;3
+VIA-00954;2026-09-18;SUR;VALLE; AUTOMOVIL ;9:50 PM;30,4;no;-
+VIA-00955;17/05/2025;CENTRO;CENTRO; MOTOCICLETA ;10:20;30,0 min;no;-
+VIA-00956;21/06/2026;CENTRO;CENTRO;BICICLETA;12:40;14,9 minutos;No;NA
+VIA-00957;08/06/2025; centro ;Centro; MOTOCICLETA ;17h10;25,0 min;n;-
+VIA-00958;2026-04-17;NORTE; sur ;Bicicleta;19:55;12,3 min;n;-
+VIA-00959;22/05/2025; valle ; norte ;BUS;8:55 PM;31,4 minutos;yes; 4 
+VIA-00960;14/04/2026; valle ;CENTRO;Bus;11:40;90,0 minutos;SI;4
+VIA-00961;22/12/2025; valle ; centro ;BUS;11:05;51,6 minutos;yes;4
+VIA-00962;2025-05-23;SUR;SUR;automovil;08:25;14,5 minutos; NO ;
+VIA-00963;2025-06-10;VALLE;Norte;BUS;09:15;29,7 minutos;no;NA
+VIA-00964;27/07/2026;Sur;Sur; AUTOMOVIL ;10:20;25,4 minutos;No;
+VIA-00965;27/01/2025;Valle; centro ; bus ;09h05;37,7; NO ;
+VIA-00966;23/02/2026;Centro;SUR;Bus;19:20;66,2;SI;4
+VIA-00967;28/07/2026;NORTE;CENTRO;Bus;21:45;0,36 h; NO ;-
+VIA-00968;10/10/2025; norte ;CENTRO;BUS;7:40 PM;21,0; NO ;-
+VIA-00969;07/11/2025;CENTRO;Centro; MOTOCICLETA ;11:25;23,6 min;no;
+VIA-00970;03/03/2025; sur ;NORTE; bicicleta ;8:05 PM;17,5;No;-
+VIA-00971;11/11/2025;Valle;VALLE; bus ;20:00;58,4 min;yes;4
+VIA-00972;18/12/2025;Norte;NORTE;Bicicleta;6:55 PM;16,1; NO ;NA
+VIA-00973;16/01/2025;NORTE; centro ;motocicleta;20:55;64,7;no;
+VIA-00974;13/08/2026;NORTE;Norte;Bus;3:50 PM;29,1;si; 5 
+VIA-00975;2026-06-19; sur ;CENTRO; MOTOCICLETA ;13h50;11,5 min;SI;5
+VIA-00976;2026-04-20; norte ;Centro; MOTOCICLETA ;16:40;47,4 minutos; s ;4
+VIA-00977;2025-10-19; centro ;SUR;automovil;09:05;32,9 minutos; s ;5
+VIA-00978;30/01/2025;SUR;NORTE; MOTOCICLETA ;19:45;18,1;No;
+VIA-00979;26/06/2025;CENTRO; norte ; AUTOMOVIL ;10:00;22,7;n;-
+VIA-00980;22/07/2026; norte ;Centro;Automóvil;9:30 PM;40,7;no;NA
+VIA-00981;12/07/2025;Norte;Norte;Motocicleta;09:15;24,8 minutos;n;
+VIA-00982;09/08/2025;Norte;VALLE; AUTOMOVIL ;15h10;42,2 minutos; s ; 5 
+VIA-00983;28/03/2025;Norte;Norte;Automóvil;21:40;22,6;si; 5 
+VIA-00984;2025-10-13; sur ; norte ;Bus;11:35;20,0 min;No;
+VIA-00985;01/03/2025; norte ;Norte; AUTOMOVIL ;09:50;159,5 minutos; s ;2
+VIA-00986;11/09/2026;NORTE; sur ; bus ;15:35;37,7 minutos;no;-
+VIA-00987;08/11/2025; norte ; sur ;automovil;20:00;0,34;No;NA
+VIA-00988;2025-09-14;Norte; norte ;BICICLETA;10:45 PM;40,1;SI;5
+VIA-00989;03/12/2025;Sur; centro ;Bus;16:15;28,8;n;NA
+VIA-00990;25/02/2025; norte ; centro ;BICICLETA;22:25;0,36 horas;n;-
+VIA-00991;2025-05-14;Norte; centro ;automovil;7:55 PM;no registrado;n;
+VIA-00992;23/04/2026;Norte; centro ; bus ;15:00;0,52;No;-
+VIA-00993;29/12/2025;SUR; norte ;automovil;09:55;$34,2 minutos;yes; 4 
+VIA-00994;2025-11-04; valle ; norte ; MOTOCICLETA ;18h05;10,2; NO ;NA
+VIA-00995;14/08/2026;SUR; norte ;Bus;08:10;69,4;n;
+VIA-00996;2026-01-05; norte ; sur ;BUS;15:35;60,6 minutos; s ;3
+VIA-00997;15/09/2025;SUR; norte ;Bicicleta;18:35;17,4 minutos;no;
+VIA-00998;2026-09-21;CENTRO;Valle;automovil;14:10;0,30 h;No;NA
+VIA-00999;19/12/2025;NORTE;Centro; bicicleta ;10:25;23,9 minutos; NO ;NA
+VIA-01000;-;Sur;NORTE;Bus;20:40;54,4 minutos;SI; 3 
+VIA-01001;18/10/2025; valle ;Valle; bus ;20:55;34,5 min;yes; 4 
+VIA-01002;2025-09-26;Valle;SUR;Automóvil;08:45;13,0 min; NO ;
+VIA-01003;14/09/2026;CENTRO;NORTE;Bus;08h50;1,36;SI;3
+VIA-01004;2025-09-08;Sur;Valle;Automóvil;18:55;35,9;No;
+VIA-01005;21/07/2025;Sur;Norte;Bus;20:00;27,9 minutos;Sí; 3 
+VIA-01006;12/02/2026;Valle;Norte; bus ;14:55;52,2;si;4
+VIA-01007;2025-03-31;Norte;Sur; bicicleta ;11h00;N/A;No;NA
+VIA-01008;2026-04-14;Sur;VALLE; bus ;18:10;48,2;n;-
+VIA-01009;03/09/2026; sur ;Centro; bus ;6:30 PM;1,32 horas; NO ;NA
+VIA-01010;2026-05-18;NORTE;CENTRO;Bus;9:15 PM;51,5;SI;4
+VIA-01011;2025-10-29;Sur;Norte;Bus;07:10;78,0 min;Sí;4
+VIA-01012;14/03/2025;Norte;Valle;BUS;20:15;57,1 minutos; NO ;NA
+VIA-01013;2025-11-17;VALLE;CENTRO;Motocicleta;18h50;10,1;si; 4 
+VIA-01014;31/01/2025; centro ;SUR; bus ;11:45;24,5;No;-
+VIA-01015;09/03/2025;CENTRO;Norte;BUS;11:25;25,8;n;NA
+VIA-01016;12/09/2025;Norte; norte ;Motocicleta;10:55;18,2 minutos; NO ;NA
+VIA-01017;2026-03-20;Sur; valle ; AUTOMOVIL ;10:40 PM;20,6 min;n;-
+VIA-01018;2025-05-18;Sur; valle ;Automóvil;08:30;21,3 min;no;NA
+VIA-01019;;Sur;VALLE;Bus;09:40;N/A;Sí;5
+VIA-01020;14/06/2026;Norte; centro ;Automóvil;17:30;26,5 minutos;No;
+VIA-01021;2025-05-26;VALLE;Valle;Bus;12:15;25,3 minutos;No;NA
+VIA-01022;21/02/2025; sur ;Centro;BICICLETA;08:15;19,2 minutos;n;NA
+VIA-01023;29/03/2025;Valle; sur ;Bus;23h55;34,9 minutos;SI;3
+VIA-01024;30/06/2026;Sur;NORTE; AUTOMOVIL ;19h15;$0,28; s ;5
+VIA-01025;2026-13-04;Centro; valle ;automovil;17h25;37,8; s ; 4 
+VIA-01026;2025-05-22;VALLE; centro ;Bus;21:45;42,9;yes; 4 
+VIA-01027;11/12/2025;Sur;Valle; AUTOMOVIL ;19:20;19,1 minutos;n;
+VIA-01028;2025-08-23; norte ;Valle;BICICLETA;22:35;105,7 minutos; s ;5
+VIA-01029;29/06/2025; centro ;Sur;Bus;07:20;35,5 min;Sí; 4 
+VIA-01030;12/09/2026; centro ;SUR;Automóvil;15:00;31,0;no;-
+VIA-01031;2025-01-24;SUR;VALLE;BICICLETA;19h55;0,38; NO ;
+VIA-01032;22/03/2026; centro ;SUR;motocicleta;10:00;34,4; s ;5
+VIA-01033;23/01/2026;Norte;Centro;Motocicleta;13:00;20,2;no;NA
+VIA-01034;14/02/2026;Valle;CENTRO;BUS;7:35 PM;34,8 min; NO ;-
+VIA-01035;2025-02-01;Norte;Centro; MOTOCICLETA ;23:15;26,8 min; NO ;
+VIA-01036;16/09/2025; centro ; sur ; bus ;16h55;29,5 min;n;
+VIA-01037;2025-09-06;NORTE;VALLE; bus ;21:45;27,9 min;n;
+VIA-01038;05/01/2026; centro ;Valle; bus ;09:30;82,3;Sí;4
+VIA-01039;23/12/2025;Norte;VALLE;Bicicleta;20:25;13,1; s ;3
+VIA-01040;2026-09-25;SUR;CENTRO;BUS;14:55;0,60 horas;No;
+VIA-01041;2026-03-05; centro ;SUR; bus ;09:15;32,7;n;-
+VIA-01042;2025-03-07; sur ;Valle;Automóvil;23h40;43,6 minutos;SI; 5 
+VIA-01043;24/10/2025; norte ; norte ;Bus;13:10;-;SI; 3 
+VIA-01044;2025-05-11;SUR; centro ;Automóvil;09:05;34,1 minutos;n;-
+VIA-01045;14/07/2025; sur ; valle ; bus ;07:00;91,7;yes;4
+VIA-01046;08/12/2025;NORTE;Valle;automovil;16:55;32,8;no;
+VIA-01047;12/07/2025; sur ; sur ;BICICLETA;19h30;19,4 min; NO ;
+VIA-01048;24/01/2025; valle ; sur ;BUS;20:00;27,4;No;-
+VIA-01049;31/07/2025;Norte;SUR; AUTOMOVIL ;21:35;19,6 min;No;NA
+VIA-01050;01/06/2025;NORTE;CENTRO;Bus;11:30;33,3;SI;4
+VIA-01051;30/10/2025;CENTRO;CENTRO;automovil;14:20;0,45;n;
+VIA-01052;31/08/2026;Norte; norte ; bus ;18:50;41,3;yes;3
+VIA-01053;21/05/2025;Sur; valle ;Bus;10:45 PM;33,6 minutos;SI;4
+VIA-01054;01/10/2025; valle ; sur ;BUS;08:10;32,3;Sí;5
+VIA-01055;07/12/2025; norte ; sur ;automovil;11:10;18,4 min;SI; 5 
+VIA-01056;2026-07-06; sur ;Centro;automovil;8:20 PM;134,2 minutos;si;3
+VIA-01057;20/04/2026; sur ; norte ; bus ;08:55;-8,5 min; s ; 5 
+VIA-01058;2026-03-17; centro ;CENTRO;Automóvil;06h30;$19,4 minutos;no;NA
+VIA-01059;08/04/2025;Centro; centro ;BUS;13:35;39,6 minutos;No;NA
+VIA-01060;11/09/2025;Sur;VALLE; AUTOMOVIL ;17:55;15,0;No;-
+VIA-01061;23/07/2026; sur ;Centro; AUTOMOVIL ;10:00;26,4 minutos; NO ;
+VIA-01062;2025-08-08; sur ; centro ;Bus;09:50;75,0;SI;4
+VIA-01063;26/09/2025; centro ;CENTRO; MOTOCICLETA ;10:45;32,7 minutos;n;
+VIA-01064;23/12/2025; sur ;CENTRO; MOTOCICLETA ;22h25;22,9 min;n;
+VIA-01065;2025-06-07; norte ;SUR;Bus;21:40;54,8 min;si; 3 
+VIA-01066;19/01/2025;Norte;Valle;Automóvil;16:45;35,6; NO ;NA
+VIA-01067;2026-04-27;NORTE;NORTE; MOTOCICLETA ;13h00;40,1 minutos;No;-
+VIA-01068;14/05/2026;Sur; centro ;BUS;16:45;25,3;No;
+VIA-01069;10/07/2025; valle ;VALLE; bus ;17h55;26,9 minutos;no;-
+VIA-01070;01/07/2025; norte ;Valle; bus ;11:45;28,2 minutos; NO ;NA
+VIA-01071;20/02/2025;VALLE; sur ;Bus;11:15;125,3;si; 4 
+VIA-01072;12/03/2025; norte ;Centro;Automóvil;20:40;26,1 minutos;no;
+VIA-01073;11/09/2026;SUR; sur ; AUTOMOVIL ;12:05;21,7;n;
+VIA-01074;09/12/2025;Sur; centro ;BICICLETA;21:55;13,1;no;
+VIA-01075;2026-07-21;Centro; centro ;Bus;20:50;43,3 minutos;no;
+VIA-01076;11/08/2025;SUR; valle ;automovil;10:55 PM;53,8 min;no;NA
+VIA-01077;2025-11-19;SUR; norte ;Bus;09:10;25,9 minutos;No;NA
+VIA-01078;28/01/2025;Norte;Centro;Bicicleta;11:35;N/A;si;4
+VIA-01079;2025-11-05;SUR; valle ;Automóvil;18:55;31,3 min;si; 5 
+VIA-01080;2026-02-08;Valle;CENTRO; bus ;12:45;84,0 min;si;3
+VIA-01081;2026-09-17; norte ; sur ;BUS;09:35;0,63 h; s ; 3 
+VIA-01082;12/07/2026;NORTE;Valle; AUTOMOVIL ;20:50;21,2 minutos;No;NA
+VIA-01083;02/07/2026; norte ; centro ;Automóvil;10:55;21,8 minutos;No;-
+VIA-01084;-; sur ; sur ;Automóvil;12:40;19,4 min;no;-
+VIA-01085;2025-01-26;NORTE;CENTRO; AUTOMOVIL ;11:00 PM;0,33;no;NA
+VIA-01086;2026-09-21; norte ;SUR; AUTOMOVIL ;11:10;19,3 min;yes; 4 
+VIA-01087;2025-06-22;Norte;Norte;BUS;5:00 PM;22,9; NO ;
+VIA-01088;15/09/2026;Valle; valle ;BUS;08h15;0,93;Sí;4
+VIA-01089;2025-04-26;SUR;NORTE;automovil;08h45;34,5 min;si;5
+VIA-01090;01/05/2025;SUR; sur ;Bus;09:15;-23,5 min;n;
+VIA-01091;09/12/2025; sur ; sur ;Automóvil;19h35;23,6 min;n;NA
+VIA-01092;2026-01-19; centro ;VALLE;Bus;17:00;214,3 minutos; s ;3
+VIA-01093;16/05/2025; norte ; sur ;Bus;08:10;38,9 minutos;No;-
+VIA-01094;28/08/2025; centro ;Valle;Automóvil;16h40;28,3 min;no;-
+VIA-01095;2026-01-07; norte ;Norte;automovil;09h05;52,4; NO ;
+VIA-01096;2025-04-30;VALLE;NORTE;Bus;10:20 PM;30,5 min;yes;4
+VIA-01097;10/12/2025;CENTRO; centro ; bus ;19:50;22,2 min;No;NA
+VIA-01098;2026-08-31; norte ; centro ;BICICLETA;4:05 PM;17,3 minutos;SI;5
+VIA-01099;16/03/2026;Valle; norte ;Automóvil;06:15;26,9 minutos;no;-
+VIA-01100;2025-05-10;Centro;Sur; bus ;14h15;0,63;yes;4
+VIA-01101;2026-04-05;Norte;SUR;Automóvil;11h40;0,56;si; 4 
+VIA-01102;28/12/2025; norte ;Valle;Bus;18h30;0,84; s ;5
+VIA-01103;2026-07-17; centro ;SUR; bus ;09:25;131,5 min;SI;3
+VIA-01104;2025-10-27;Norte; sur ;Bicicleta;14:15;43,9 minutos;Sí;5
+VIA-01105;21/04/2025; centro ;NORTE; AUTOMOVIL ;12:15;0,88 h;Sí;4
+VIA-01106;23/03/2026;VALLE;VALLE; bus ;18:25;40,0 min;Sí; 4 
+VIA-01107;2025-09-13;NORTE;Valle;BUS;11:40;76,9 min;SI;2
+VIA-01108;08/03/2025;Valle;Centro; bus ;17:15;24,8 min;no;NA
+VIA-01109;2025-09-29;Sur; valle ; AUTOMOVIL ;15:50;20,4 minutos;Sí;5
+VIA-01110;2025-03-27;Valle;Centro; AUTOMOVIL ;06:35;36,9;no;NA
+VIA-01111;13/06/2026;Norte;SUR;Automóvil;20:45;34,3;yes;4
+VIA-01112;2026-02-23; norte ;Norte; bicicleta ;06:15;19,9 minutos; NO ;NA
+VIA-01113;2026-07-07; sur ; sur ;Bicicleta;9:15 PM;19,7;Sí;5
+VIA-01114;20/08/2025;Sur;VALLE; AUTOMOVIL ;10:45;0,57 h;no;-
+VIA-01115;12/04/2025;SUR; valle ;Bus;12:55;30,7 min;no;-
+VIA-01116;30/04/2025;NORTE; norte ;automovil;21:05;25,1;no;NA
+VIA-01117;2026-01-17;NORTE; norte ;Bus;09:10;36,5;SI;3
+VIA-01118;2026-09-19;CENTRO; norte ; bicicleta ;22:35;55,6 min;yes;5
+VIA-01119;2025-09-08;NORTE; centro ; bus ;4:55 PM;49,7 minutos;yes; 4 
+VIA-01120;28/06/2026; centro ;CENTRO;Automóvil;20:35;72,0 min;SI; 5 
+VIA-01121;2026-02-16;Norte;SUR; MOTOCICLETA ;18:35;39,1 min; s ; 5 
+VIA-01122;02/02/2026;Norte;Sur;Motocicleta;23:45;29,9 min;si; 4 
+VIA-01123;2025-06-23; norte ; sur ;automovil;17h00;22,8 min;n;-
+VIA-01124;17/02/2026;CENTRO;Norte;Bus;07:10;71,9 min; s ; 4 
+VIA-01125;09/06/2025;Valle; sur ; MOTOCICLETA ;14:55;44,3 min;no;NA
+VIA-01126;24/02/2025; norte ;Norte;Motocicleta;16:50;195,6 minutos;yes; 1 
+VIA-01127;23/11/2025;SUR;Sur;BUS;05:10;50,1 minutos;si;5
+VIA-01128;2026-06-05;CENTRO; centro ; bus ;08:30;37,6;si; 4 
+VIA-01129;2026-01-07;Valle; valle ;motocicleta;11:45;19,9 minutos;No;
+VIA-01130;08/03/2025;CENTRO;Sur;Bus;16:40;19,4 minutos;n;-
+VIA-01131;30/03/2026;NORTE;NORTE; bus ;10:05;30,1 min; s ; 5 
+VIA-01132;01/12/2025; sur ;Sur;automovil;11h50;24,2 minutos;n;-
+VIA-01133;2026-06-15;Centro;VALLE;BUS;2:25 PM;80,3 minutos;SI;5
+VIA-01134;08/05/2025;VALLE;VALLE;Bus;11:10;36,4;yes;3
+VIA-01135;2026-09-25;Norte;CENTRO; AUTOMOVIL ;12:45 PM;51,3 min;yes;4
+VIA-01136;13/05/2025; centro ;Sur;Bus;12:45;57,6 minutos;si; 4 
+VIA-01137;2025-04-01;SUR;Norte; bus ;09:10;52,8 minutos;Sí;4
+VIA-01138;04/05/2026;Centro; norte ;Automóvil;08:15;0,37;No;
+VIA-01139;10/01/2026;SUR;Valle;BICICLETA;18:00;15,3 minutos;n;NA
+VIA-01140;20/09/2025;SUR;CENTRO;BUS;19:30;43,4; NO ;
+VIA-01141;18/06/2026;NORTE;NORTE;Automóvil;09:50;33,7 min;No;NA
+VIA-01142;2026-01-15;CENTRO;Centro; AUTOMOVIL ;12:35;25,2 minutos;no;-
+VIA-01143;2025-08-29; sur ; norte ;automovil;18:40;0,41 horas;No;NA
+VIA-01144;09/01/2026; sur ;NORTE; bus ;7:15 PM;44,6 min;yes; 5 
+VIA-01145;06/09/2025;Valle; centro ;BUS;09:15;31,5 min;Sí;4
+VIA-01146;2025-05-08;NORTE;SUR; bicicleta ;09:25;0,59 h;si;5
+VIA-01147;01/07/2026;SUR; centro ;Bicicleta;12:00;0,32 h; NO ;-
+VIA-01148;fecha desconocida;Centro;CENTRO;BUS;6:30 PM;41,6 minutos;SI;4
+VIA-01149;03/07/2026; sur ; valle ; AUTOMOVIL ;09:25;67,0; s ; 4 
+VIA-01150;28/08/2025;Norte;Norte;automovil;19:10;0,80 horas;Sí; 5 
+VIA-01151;15/04/2025; valle ; norte ;BICICLETA;17:30;19,5;No;
+VIA-01152;08/03/2025;Centro; valle ; bus ;07:40;25,0 minutos;no;NA
+VIA-01153;15/04/2025;CENTRO; valle ; AUTOMOVIL ;21:00;46,1; s ; 5 
+VIA-01154;07/02/2026;SUR;Sur;automovil;12:25;28,5 minutos;yes;4
+VIA-01155;01/08/2025; centro ;Sur; bus ;08:55;59,7 min; s ; 4 
+VIA-01156;06/02/2025;VALLE; norte ;Automóvil;19:35;35,8 min;n;NA
+VIA-01157;16/08/2026;SUR;CENTRO;BUS;20h55;71,5 minutos; s ;4
+VIA-01158;13/04/2025;CENTRO; valle ; bus ;12:55;20,6; NO ;NA
+VIA-01159;12/01/2026;SUR;VALLE; bus ;16:55;0,86;yes; 2 
+VIA-01160;21/01/2026; norte ; sur ;Bus;21:30;60,4 min;yes; 4 
+VIA-01161;-;Centro;SUR;Bicicleta;15:15;29,8 minutos; NO ;
+VIA-01162;30/03/2025;Norte;NORTE;motocicleta;16:40;70,0 minutos;SI;3
+VIA-01163;07/10/2025;Centro;Sur;automovil;6:40 PM;30,2 min;SI;5
+VIA-01164;07/04/2025; norte ;VALLE; bus ;10h50;72,3 min;Sí;4
+VIA-01165;05/04/2025; sur ;Sur;automovil;19:15;23,2;n;
+VIA-01166;21/08/2025;NORTE;Norte;BUS;16:05;88,9 min;Sí;4
+VIA-01167;01/07/2025;Centro; centro ;BUS;18:20;40,2;no;
+VIA-01168;22/03/2026;Centro;Valle; MOTOCICLETA ;23:10;32,9 min; s ;4
+VIA-01169;2025-02-14;SUR; sur ; AUTOMOVIL ;11h10;24,6;no;
+VIA-01170;30/10/2025;VALLE;SUR;motocicleta;11:10;0,35 horas; NO ;
+VIA-01171;2026-01-17; sur ;NORTE; bicicleta ;9:50 PM;28,3 min;yes;4
+VIA-01172;2025-06-05;Valle; valle ; bus ;19h00;41,1 min;SI;4
+VIA-01173;12/04/2025; centro ;Centro; bus ;13:30;47,3 minutos;No;-
+VIA-01174;21/04/2026;Norte; sur ; bus ;21h45;33,4;No;NA
+VIA-01175;2025-12-04;Norte; valle ;automovil;13:55;21,8 minutos;No;NA
+VIA-01176;2026-04-12;Sur;SUR;BUS;12:25;64,6;no;NA
+VIA-01177;2026-01-05;Sur;Sur; bus ;3:15 PM;27,2 minutos;n;NA
+VIA-01178;2025-02-21;Sur;VALLE;BUS;08:05;81,9 min;si;4
+VIA-01179;2025-11-06;Centro; sur ;Bus;07:10;56,3 minutos;Sí; 3 
+VIA-01180;10/09/2025; centro ; centro ;BUS;13:15;40,0 min;yes;5
+VIA-01181;2025-03-26;Sur;Valle; bicicleta ;15h10;24,1 min; NO ;NA
+VIA-01182;03/11/2025;VALLE;Norte;motocicleta;11:20 PM;37,0 minutos;yes;5
+VIA-01183;2026-03-25;Norte;Norte; bus ;8:10 PM;72,8 minutos;SI;4
+VIA-01184;2025-10-28; centro ; valle ;Bicicleta;11:15;37,2 minutos;si;5
+VIA-01185;2026-07-17;NORTE;Centro;BUS;12:50;24,2; s ;5
+VIA-01186;06/07/2026;Sur;Valle;Bicicleta;19:00;24,6 min;no;-
+VIA-01187;2025-05-13; centro ;Centro; AUTOMOVIL ;12:10;48,3 min; s ;4
+VIA-01188;2025-06-15;NORTE;SUR; bus ;4:15 PM;40,6; s ; 5 
+VIA-01189;14/06/2025;Norte;Centro;BUS;08h50;26,9 minutos;No;NA
+VIA-01190;17/05/2025;Valle; norte ; AUTOMOVIL ;16:35;20,6; NO ;
+VIA-01191;2026-04-26;Centro;Valle;Bus;19:50;18,0;n;-
+VIA-01192;2026-07-14;Sur;VALLE; bus ;22:00;36,5 min;SI; 3 
+VIA-01193;2025-05-18; sur ;Centro;automovil;10:20;16,3; s ; 5 
+VIA-01194;17/01/2026;CENTRO; valle ;Automóvil;16:15;21,2 min;no;NA
+VIA-01195;01/01/2026; sur ;Norte;Bus;07:40;57,7 min;si; 4 
+VIA-01196;02/09/2026;Sur;VALLE;BUS;19:35;25,1;no;-
+VIA-01197;27/08/2025; norte ; sur ;Automóvil;08:25;16,0 minutos;n;
+VIA-01198;16/09/2026;SUR;SUR;BICICLETA;08:45;42,4 min;SI;4
+VIA-01199;2025-12-13;CENTRO; valle ;motocicleta;16:55;28,0;no;-
+VIA-01200;2026-04-27;SUR;Norte;Bus;08:45;31,5 min; s ; 4 
+VIA-01201;2025-11-19; centro ;Norte;Bus;20:35;40,3;No;
+VIA-01202;2026-03-07;Norte;CENTRO; AUTOMOVIL ;09:55;55,6; NO ;-
+VIA-01203;2025-06-27; centro ; valle ;BUS;11:00;0,83;yes;4
+VIA-01204;2026-06-11; sur ;NORTE;automovil;20:35;54,3;Sí; 5 
+VIA-01205;07/06/2026;NORTE;NORTE; AUTOMOVIL ;13h40;36,9 min; s ;4
+VIA-01206;2025-02-06;Centro;Norte;Automóvil;19:45;56,6 minutos;SI;3
+VIA-01207;03/06/2025;Centro;Valle; bus ;13:20;50,9 min;SI;4
+VIA-01208;2025-03-14;SUR;VALLE; bus ;09:15;41,3 minutos; NO ;-
+VIA-01209;2025-11-24; centro ;SUR;Automóvil;11:10 PM;26,4 minutos;n;-
+VIA-01210;2026-08-01;SUR;Sur; AUTOMOVIL ;11h00;0,44 h;no;NA
+VIA-01211;2026-01-03;Valle;Centro; AUTOMOVIL ;8:25 PM;14,4 min;SI;4
+VIA-01212;19/01/2026; centro ;Centro; bus ;06:40;32,5; s ;4
+VIA-01213;2026-04-06;NORTE;Norte;automovil;22:55;14,3; NO ;
+VIA-01214;14/09/2025; centro ; centro ;Automóvil;17:45;28,6; NO ;
+VIA-01215;2026-06-25;Sur;CENTRO;Automóvil;12:50;31,4;yes; 5 
+VIA-01216;31/05/2026; valle ;SUR;automovil;11:40;18,3;si; 5 
+VIA-01217;14/03/2026; norte ; valle ;Motocicleta;19:50;48,3 min;yes;4
+VIA-01218;23/07/2025; norte ;Centro;BICICLETA;13:25;26,8 min; NO ;
+VIA-01219;13/02/2026;VALLE; valle ;Motocicleta;10h10;22,0 min;No;-
+VIA-01220;2025-08-25; sur ;SUR;automovil;17:35;101,5 minutos;SI; 3 
+VIA-01221;2025-05-15; centro ;VALLE; bus ;14:10;22,9; NO ;NA
+VIA-01222;05/03/2025;CENTRO; sur ;automovil;18:25;24,4;No;-
+VIA-01223;2025-10-09;CENTRO; norte ;BUS;19h20;25,5 minutos;n;
+VIA-01224;25/08/2026;VALLE; valle ;BUS;18:00;39,7;No;
+VIA-01225;23/01/2025;SUR;Sur;BUS;13:10;19,1 min;si;4
+VIA-01226;23/08/2025; norte ; norte ; bus ;17:30;43,4 min;n;NA
+VIA-01227;16/02/2025;VALLE;Norte; bus ;11:25;38,9 min;yes;4
+VIA-01228;24/01/2025;Norte; norte ;BUS;15h00;0,49;No;-
+VIA-01229;2025-03-05; norte ; norte ;motocicleta;20:55;0,66 horas;Sí;4
+VIA-01230;2026-06-26; valle ;Centro;automovil;19:05;97,6;Sí; 3 
+VIA-01231;2025-12-31;VALLE;Sur;Bus;18:35;21,9 minutos;No;-
+VIA-01232;2025-12-03;Norte; valle ; bus ;09h55;45,7;SI;4
+VIA-01233;01/10/2025;Sur; sur ; AUTOMOVIL ;4:50 PM;25,8 min;yes;5
+VIA-01234;11/11/2025;NORTE; valle ;automovil;11:05;0,45; NO ;-
+VIA-01235;05/08/2026;Norte; sur ; bus ;09:05;113,4 min;SI;3
+VIA-01236;2026-09-06; centro ;Norte;Automóvil;10:20;0,36 h;no;-
+VIA-01237;04/05/2025;VALLE; norte ;automovil;20:45;17,3; NO ;-
+VIA-01238;2026-01-31; norte ;Norte;BUS;10h00;23,3 min;no;-
+VIA-01239;08/08/2025;Sur; centro ;Motocicleta;16:50;18,6 min;yes; 5 
+VIA-01240;04/10/2025; valle ; centro ; MOTOCICLETA ;9:45 PM;27,9 min;no;-
+VIA-01241;03/04/2026;SUR; centro ; AUTOMOVIL ;17h45;0,52 horas;Sí;3
+VIA-01242;12/12/2025; sur ; norte ;Automóvil;10:10;35,8 min;yes; 4 
+VIA-01243;2025-06-11; sur ; sur ; AUTOMOVIL ;08h05;17,6 min;n;
+VIA-01244;2025-03-10;CENTRO; valle ; AUTOMOVIL ;16h25;119,0 minutos;si;3
+VIA-01245;18/08/2025;Centro;VALLE; bus ;20:45;47,4;SI;3
+VIA-01246;02/07/2026; norte ;Valle;Bus;15:20;27,1 minutos;no;NA
+VIA-01247;2025-06-28; centro ;CENTRO;Bus;09:55;0,45;no;
+VIA-01248;2026-06-28;Centro; centro ;Automóvil;19:20;$31,6;Sí; 4 
+VIA-01249;17/04/2025;CENTRO; norte ;Automóvil;18h30;100,0 min; NO ;NA
+VIA-01250;2025-02-18; centro ;Sur; bus ;16:45;43,9 minutos;No;NA
+VIA-01251;23/12/2025;Norte;NORTE;Bus;12:50;57,0 minutos; s ; 5 
+VIA-01252;15/09/2025;Norte;VALLE;Automóvil;20:25;219,0 minutos;SI; 2 
+VIA-01253;2026-03-11; sur ;Centro; AUTOMOVIL ;18:40;0,36 horas; s ;5
+VIA-01254;2026-03-28; sur ;SUR; bus ;08:05;25,9 min; NO ;NA
+VIA-01255;29/07/2026;Norte;CENTRO;automovil;19:20;21,8 min; NO ;
+VIA-01256;2026-09-18; centro ;Centro;automovil;08:45;0,32 h; NO ;-
+VIA-01257;12/09/2025;NORTE; centro ;Motocicleta;5:50 PM;19,6 minutos;no;-
+VIA-01258;27/03/2025;Centro;Centro;Automóvil;18:55;18,8 min;No;
+VIA-01259;23/08/2026; sur ; norte ;Bicicleta;20:20;25,9 minutos;n;-
+VIA-01260;24/01/2026;SUR;Valle;motocicleta;18:50;18,7 min; NO ;
+VIA-01261;28/05/2025;Valle;CENTRO; MOTOCICLETA ;07h30;0,44 horas;n;-
+VIA-01262;2025-06-10; norte ;Norte;Bus;18:40;24,5 min; s ;5
+VIA-01263;03/09/2025; sur ;Sur; bus ;20:30;22,2 min; NO ;
+VIA-01264;07/12/2025; valle ; valle ;motocicleta;8:00 PM;0,36 horas;no;-
+VIA-01265;2025-01-24;NORTE;CENTRO;Automóvil;11:25 PM;35,9 min;yes; 5 
+VIA-01266;2026-08-30;NORTE;Norte;motocicleta;19:45;27,5;no;NA
+VIA-01267;2025-02-24; valle ; sur ;Automóvil;15:20;46,1;n;-
+VIA-01268;2025-06-19;CENTRO; norte ;automovil;18:15;47,0 minutos;yes;4
+VIA-01269;2025-07-10; sur ; sur ; bus ;13:40;90,1 min;yes; 4 
+VIA-01270;2026-05-24; centro ;NORTE; bus ;07:20;18,3 minutos; NO ;NA
+VIA-01271;2025-01-16;NORTE;SUR;Bus;14:45;1,32;Sí;4
+VIA-01272;14/04/2025;Valle;Valle;Bus;8:35 PM;28,8 min;SI; 5 
+VIA-01273;02/08/2025;SUR; sur ; bus ;07:15;63,0;si;3
+VIA-01274;2025-01-26;NORTE;Norte;BICICLETA;08:20;24,2 minutos;no;-
+VIA-01275;27/01/2026; norte ;SUR;Motocicleta;21h20;17,2;no;NA
+VIA-01276;17/07/2025; sur ;NORTE;Bus;17:00;86,4;SI;3
+VIA-01277;14/10/2025;SUR;Sur;automovil;5:25 PM;42,7;No;NA
+VIA-01278;2025-02-01; centro ;SUR;motocicleta;17:15;18,4 minutos; s ; 5 
+VIA-01279;15/08/2025;NORTE;Sur;Bus;08:25;79,1 minutos; NO ;-
+VIA-01280;24/11/2025; sur ;Norte;Automóvil;18:10;23,9;yes;5
+VIA-01281;2026-06-24;Sur; sur ;Bicicleta;5:25 PM;15,2;No;-
+VIA-01282;25/05/2025;Sur; valle ; bicicleta ;05:05;11,8;Sí;5
+VIA-01283;07/09/2025; sur ;Valle;Automóvil;21:35;21,4 min; NO ;NA
+VIA-01284;12/02/2025;VALLE;Centro; MOTOCICLETA ;5:55 PM;16,2 min; NO ;NA
+VIA-01285;2026-06-13; sur ;Centro;automovil;15h20;59,9;si;3
+VIA-01286;2025-04-15; sur ;NORTE;BUS;10:35;0,70 horas; NO ;-
+VIA-01287;2025-11-15;Sur; sur ;automovil;18:20;13,2 min;No;-
+VIA-01288;2026-09-18;CENTRO;VALLE;Bicicleta;07:00;34,2 min;Sí; 5 
+VIA-01289;06/02/2026; valle ;NORTE;Bus;10:35 PM;149,3;SI; 2 
+VIA-01290;2025-02-15; norte ;VALLE; MOTOCICLETA ;09:00;125,3;Sí;2
+VIA-01291;15/02/2026;Norte; valle ;Automóvil;12:00;0,34 horas;n;
+VIA-01292;2026-04-30;Valle;Sur;BUS;15:25;45,4;n;NA
+VIA-01293;05/04/2025;Centro; centro ;Bus;09:15;49,2;No;
+VIA-01294;03/07/2025;Sur; sur ; AUTOMOVIL ;09:50;0,70 horas;No;NA
+VIA-01295;02/01/2026;Centro;NORTE;Bus;17h35;50,4 min;No;
+VIA-01296;2026-05-26;Valle;VALLE;motocicleta;08:35;29,0 min;no;-
+VIA-01297;29/03/2025; sur ;VALLE;BUS;16:05;49,9;yes;4
+VIA-01298;01/06/2026;Norte;Centro; AUTOMOVIL ;20:10;54,6 min;yes;4
+VIA-01299;2026-08-16;SUR;Valle;automovil;11:20;24,6 minutos; NO ;-
+VIA-01300;2025-03-01;CENTRO;Sur;automovil;11:15;41,1;no;
+VIA-01301;06/08/2026;Valle;CENTRO;Motocicleta;09:35;32,0;si;4
+VIA-01302;28/03/2025; norte ;Norte;BUS;10:10;44,1 min; NO ;-
+VIA-01303;05/11/2025; valle ;SUR;Automóvil;08:20;24,6;n;
+VIA-01304;25/03/2026;Sur;Norte;BUS;17:45;38,7 minutos;Sí; 4 
+VIA-01305;2025-04-03; centro ;Sur; bus ;19:05;58,3;n;-
+VIA-01306;25/03/2026;Norte;Norte;Bicicleta;13:35;22,6 minutos;no;-
+VIA-01307;2025-03-23;Sur;Norte;Automóvil;17:45;38,9 min;SI; 4 
+VIA-01308;19/07/2026;Valle;Sur;automovil;20:20;19,4;n;
+VIA-01309;04/04/2026;NORTE;Norte;Motocicleta;18:45;26,7;n;-
+VIA-01310;08/04/2026;VALLE;Centro;Automóvil;13:45;31,5 min;si; 4 
+VIA-01311;2025-08-24;Valle; centro ; AUTOMOVIL ;19:45;46,3 minutos;si;4
+VIA-01312;22/09/2025;Norte;Centro; AUTOMOVIL ;14:45;39,6; s ; 5 
+VIA-01313;2025-06-17;SUR; valle ;BUS;12:30;39,2 minutos;no;NA
+VIA-01314;17/03/2025;Norte; valle ;automovil;11:35;42,0 min;Sí;4
+VIA-01315;2025-03-09;Centro;SUR;Automóvil;18:55;23,7;no;-
+VIA-01316;22/10/2025; norte ; centro ; bus ;15:55;0,00;no;NA
+VIA-01317;2026-01-23;NORTE;NORTE;automovil;09:00;42,6 min; s ;5
+VIA-01318;2026-02-15; sur ;CENTRO;automovil;07h25;14,7 min; NO ;NA
+VIA-01319;2026-09-16; valle ;Valle; bus ;10:30;112,1 minutos;Sí;3
+VIA-01320;19/02/2025; sur ; sur ;BICICLETA;07:10;41,3;Sí;4
+VIA-01321;10/10/2025; centro ;VALLE; AUTOMOVIL ;8:30 PM;25,3; NO ;NA
+VIA-01322;2026-06-06;Norte; valle ;BICICLETA;22:50;18,8;no;
+VIA-01323;2025-04-26;Norte;Sur; MOTOCICLETA ;07h40;27,1 min;n;-
+VIA-01324;26/05/2026;Norte; norte ; AUTOMOVIL ;19:40;19,4 min;no;-
+VIA-01325;2025-01-15; norte ; valle ;Automóvil;22:30;58,6 min; s ;3
+VIA-01326;2025-10-20;Centro;Valle; bus ;08:05;265,8 min;SI; 1 
+VIA-01327;20/02/2025;NORTE; norte ; AUTOMOVIL ;19:35;24,4;n;NA
+VIA-01328;31/01/2026;VALLE;NORTE; bus ;09:20;s/d;No;
+VIA-01329;2025-07-15; norte ;Centro;Bus;17:10;75,1;SI;3
+VIA-01330;03/03/2025;SUR; sur ;Bus;15:25;29,3 minutos; NO ;NA
+VIA-01331;17/09/2025; centro ;NORTE; AUTOMOVIL ;12h40;18,2;no;
+VIA-01332;2025-05-09; sur ; sur ;BUS;14:25;16,3;no;-
+VIA-01333;2025-09-22;Valle; norte ;automovil;8:45 PM;17,7 minutos; NO ;NA
+VIA-01334;28/01/2025;Sur; valle ;motocicleta;12:30;0,50 h;no;
+VIA-01335;2025-05-07;Sur;Valle;BUS;18:20;57,6 min;yes;3
+VIA-01336;2026-05-07;NORTE;Sur; MOTOCICLETA ;13:00;45,5 minutos;SI;4
+VIA-01337;22/12/2025;Centro; norte ;BUS;12:00;1,07 horas;SI;4
+VIA-01338;31/01/2026;Centro; valle ;Automóvil;19:50;0,52 horas;No;-
+VIA-01339;2025-12-19;Norte; valle ;automovil;12:00;24,8;Sí; 4 
+VIA-01340;2025-05-15;Norte; centro ; AUTOMOVIL ;12:20;26,6;No;-
+VIA-01341;2025-11-12;Norte;VALLE; AUTOMOVIL ;14:25;18,4 minutos;No;
+VIA-01342;10/06/2026; norte ;Centro;Automóvil;17:25;43,5 minutos;SI;5
+VIA-01343;24/02/2026; sur ;SUR;Automóvil;20h35;22,5 min; NO ;-
+VIA-01344;26/12/2025; centro ;CENTRO;Bus;18:20;59,6 minutos;SI;5
+VIA-01345;07/01/2026;VALLE;Centro;BICICLETA;19h25;37,5;SI;4
+VIA-01346;06/08/2025; centro ;SUR; AUTOMOVIL ;14:05;25,7 min;n;-
+VIA-01347;09/09/2025;Valle; sur ; AUTOMOVIL ;10:40;93,9 minutos;Sí;3
+VIA-01348;2025-11-12; norte ; norte ;Bus;10:05;45,4; s ; 4 
+VIA-01349;04/03/2026; norte ;Centro;Motocicleta;08:40;-;n;-
+VIA-01350;2025-07-12; sur ;SUR;BUS;10:40;43,4 minutos;Sí;5
+VIA-01351;2025-11-07;CENTRO;NORTE; AUTOMOVIL ;12:00 PM;40,5;n;-
+VIA-01352;2026-06-28;NORTE;SUR; bus ;08:35;59,0 minutos; s ; 3 
+VIA-01353;01/01/2026;NORTE; valle ; MOTOCICLETA ;18:20;0,75 h;Sí;5
+VIA-00835;31/01/2026;Centro;Valle;automovil;11:45 PM;66,1;SI; 3 
+VIA-00329;2025-10-19; norte ;Valle;Bus;18:10;32,7 min;Sí;3
+VIA-01152;08/03/2025;Centro; valle ; bus ;07:40;25,0 minutos;no;NA
+VIA-00318;2026-04-07;NORTE;Centro;Automóvil;23h20;0,18;No;
+VIA-00537;15/06/2026;CENTRO;Centro;automovil;16h15;33,5 minutos;Sí; 4 
+VIA-00046;2026-04-18;Sur; valle ;Motocicleta;17:05;24,9;no;NA
+VIA-00398;2026-02-03;Norte;Valle; bus ;10:50;36,7 minutos;SI; 5 
+VIA-00453;2025-01-21;Sur;Centro;automovil;11:15;0,68 h; s ;5
+VIA-00245;2025-09-26;NORTE; valle ; AUTOMOVIL ;18:45;33,5; NO ;
+VIA-01332;2025-05-09; sur ; sur ;BUS;14:25;16,3;no;-
+VIA-01348;2025-11-12; norte ; norte ;Bus;10:05;45,4; s ; 4 
+VIA-00059;16/07/2026; sur ;Norte;BUS;09:25;44,1 minutos;yes;4
